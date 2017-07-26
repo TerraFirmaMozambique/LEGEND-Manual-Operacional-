@@ -1,10 +1,14 @@
-# Facilitação de formalização de direitos
+# Certificação de Parcelas Individuais \(C-DUATs\)
+
+Facilitação de formalização de direitos
 
 * A identificação das áreas individuais que merecem protecção especial \(viúvas, mulheres que são ‘cabeça da família’\)
 * Estabelecimento e formação das equipas comunitárias para implementar um programa de delimitação individual
 * A Delimitação e Certificação destas áreas
 
-## Uma nova abordagem...
+## 
+
+## Uma nova abordagem...
 
 É possível imaginar um tipo diferente de programa como uma alternativa à titulação formal através do cadastro nacional:
 

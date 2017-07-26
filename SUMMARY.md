@@ -9,6 +9,8 @@
 * [Criação de Associação Comunitária](criacao-de-associacao-comunitaria.md)
   * [Formulários ODK](criacao-de-associacao-comunitaria/formularios-odk.md)
 * [Delimitação da área comunitária](delimitacao-da-area-comunitaria.md)
+  * [Princípios básicos](delimitacao-da-area-comunitaria/principios-basicos.md)
+  * [Sensibilização](delimitacao-da-area-comunitaria/sensibilizacao.md)
   * [Formulários ODK](delimitacao-da-area-comunitaria/formularios-odk.md)
 * [Plano de Uso de Terra](plano-de-uso-de-terra.md)
   * [Formulários ODK](plano-de-uso-de-terra/formularios-odk.md)
