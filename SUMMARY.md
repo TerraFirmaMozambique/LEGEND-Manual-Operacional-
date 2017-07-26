@@ -15,6 +15,5 @@
   * [Captura dos limites](certificacao-de-parcelas-individuais-c-duats/captura-dos-limites.md)
   * [Preparação de Edital](certificacao-de-parcelas-individuais-c-duats/preparacao-de-edital.md)
   * [Confirmação, Objecções e Correcções](certificacao-de-parcelas-individuais-c-duats/confirmacao-objeccoes-e-correccoes.md)
-  * [Adjudicação Provisional](certificacao-de-parcelas-individuais-c-duats/adjudicacao-provisional.md)
   * [Certificação](certificacao-de-parcelas-individuais-c-duats/certificacao.md)
 
