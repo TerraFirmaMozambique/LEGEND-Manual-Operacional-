@@ -4,11 +4,11 @@
 
 A mapa criada agora vai ser digitalizado nas imagens satélites pela a equipa técnica, juntos com informação dos pontos de interesse gravados usando Formulario A1. Esse mapa digital vai servir como a base de desenvolvimento do georeferenciamento e esboço feito pelo SPGC.
 
-Objectivos
+## Objectivos
 
 Fornecer informações gerais sobre a localização e/ou situação geográfica da comunidade de modo a facilitar a fase de esboço e sua memória.
 
-Processo
+## Processo
 
 1. Apresentação dos mapas elaborados pelos grupos;
 
@@ -22,7 +22,7 @@ Processo
 
 6. Preencher e assinar o Formulário 3 do Anexo Técnico
 
-Ferramentas
+## Ferramentas
 
 •    Formulário D: Encontro da Diagnóstica Participativa
 
@@ -30,7 +30,7 @@ Ferramentas
 
 •    Mapas de imagens satélites
 
-Produtos
+## Produtos
 
 •    Mapas
 

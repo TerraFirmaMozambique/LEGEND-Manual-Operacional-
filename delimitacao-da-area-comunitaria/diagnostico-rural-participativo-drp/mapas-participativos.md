@@ -2,11 +2,11 @@
 
 Os mapas participativos são elaborados pelos membros da comunidade com a facilitação da equipe dos motivadores. No mínimo devem ser elaborados 2 mapas participativos, que indicam características geográficas e recursos naturais, os limites com as comunidades vizinhas, infraestruturas sociais e económicos como estradas e escolas e empresas, e outros pontos de interesse. Estes mapas são elaborados por grupos de homens, de mulheres e de jovens em separado.
 
-Objectivos
+## Objectivos
 
 Apresentar os perspectivos comunitários dos aspectos físicos da comunidade.
 
-Processo
+## Processo
 
 1. Explicar o objectivo de trabalho
 
@@ -38,7 +38,7 @@ f.    Representar outros pontos de interesse
 
 3. Preencher e enviar o Formulário F
 
-Ferramentas
+## Ferramentas
 
 •    Formulário D: Encontro da Diagnóstica Participativa
 
@@ -48,7 +48,7 @@ Ferramentas
 
 •    Mapas de imagens satélites
 
-Produtos
+## Produtos
 
 •    Mapas participativos \(deixados com a comunidade\)
 

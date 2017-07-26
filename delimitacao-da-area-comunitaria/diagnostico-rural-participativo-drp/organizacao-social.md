@@ -2,11 +2,11 @@
 
 A organização social da comunidade tem em vista fornecer informações e conhecimento de base no que diz respeito as estruturas e hierarquia da comunidade. O processo envolve desenvolvimento de dois diagramas: um diagrama de Venn e um diagrama de hierarquia.
 
-Objectivos
+## Objectivos
 
 Descrever a organização social da comunidade em termos de organizações influentes e em termos de hierarquia da liderança.
 
-Processo
+## Processo
 
 1. Explicar o objectivo do trabalho;
 
@@ -60,7 +60,7 @@ Diagrama de Venn: Importância e actuação de instituições externas
 
 4. Preencher e enviar os Formulários D e F.
 
-Ferramentas
+## Ferramentas
 
 •    Formulário D: Encontro da Diagnóstica Participativa
 
@@ -68,7 +68,7 @@ Ferramentas
 
 •    Formulário A1: Pontos de Interesse \(opcional\)
 
-Produtos
+## Produtos
 
 •    Coordenadas do local da realização do encontro
 
