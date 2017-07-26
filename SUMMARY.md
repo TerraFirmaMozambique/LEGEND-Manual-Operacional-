@@ -21,4 +21,5 @@
   * [Confirmação, Objecções e Correcções](certificacao-de-parcelas-individuais-c-duats/confirmacao-objeccoes-e-correccoes.md)
   * [Certificação](certificacao-de-parcelas-individuais-c-duats/certificacao.md)
   * [Formulários ODK](certificacao-de-parcelas-individuais-c-duats/formularios-odk.md)
+  * [Princípios básicos](certificacao-de-parcelas-individuais-c-duats/principios-basicos.md)
 
