@@ -4,7 +4,7 @@
 
 xxx
 
-As reuniões públicas são de grande importância, pois fazem com que a mensagem possa chegar directamente aos membros da comunidade. Estas reuniões servem para esclarecer os direitos individuais e familiares, e para explicar os passos de processo de[delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação). Nestes encontros, apresenta se a equipe de trabalho, a metodologia que vai ser implementada e as ferramentas que serão usadas, o plano de trabalho e outras informações importantes.
+As reuniões públicas são de grande importância, pois fazem com que a mensagem possa chegar directamente aos membros da comunidade. Estas reuniões servem para esclarecer os direitos individuais e familiares, e para explicar os passos de processo de delimitaçao. Nestes encontros, apresenta se a equipe de trabalho, a metodologia que vai ser implementada e as ferramentas que serão usadas, o plano de trabalho e outras informações importantes.
 
 > ![](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/assets/meet_pic.jpg)
 >
