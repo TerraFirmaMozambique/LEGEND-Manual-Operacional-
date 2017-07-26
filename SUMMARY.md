@@ -2,12 +2,16 @@
 
 * [Introdução](README.md)
 * [Cadeia de Valor de Terra Comunitária \(CaVaTeCo\)](cadeia-de-valor-de-terra-comunitaria-cavateco.md)
-  * Conceito
-  * Ferramentas
-* Sensibilização
+  * [Conceito](cadeia-de-valor-de-terra-comunitaria-cavateco/conceito.md)
+  * [Ferramentas](cadeia-de-valor-de-terra-comunitaria-cavateco/ferramentas.md)
+* [Sensibilização](sensibilizacao.md)
+  * [Formulários ODK](sensibilizacao/formularios-odk.md)
 * [Criação de Associação Comunitária](criacao-de-associacao-comunitaria.md)
+  * [Formulários ODK](criacao-de-associacao-comunitaria/formularios-odk.md)
 * [Delimitação da área comunitária](delimitacao-da-area-comunitaria.md)
-* Plano de Uso de Terra
+  * [Formulários ODK](delimitacao-da-area-comunitaria/formularios-odk.md)
+* [Plano de Uso de Terra](plano-de-uso-de-terra.md)
+  * [Formulários ODK](plano-de-uso-de-terra/formularios-odk.md)
 * [Certificação de Parcelas Individuais \(C-DUATs\)](certificacao-de-parcelas-individuais-c-duats.md)
   * [Campanha de sensibilização](certificacao-de-parcelas-individuais-c-duats/campanha-de-sensibilizacao.md)
   * [Registo dos titulares](certificacao-de-parcelas-individuais-c-duats/registo-dos-titulares.md)
@@ -16,4 +20,5 @@
   * [Preparação de Edital](certificacao-de-parcelas-individuais-c-duats/preparacao-de-edital.md)
   * [Confirmação, Objecções e Correcções](certificacao-de-parcelas-individuais-c-duats/confirmacao-objeccoes-e-correccoes.md)
   * [Certificação](certificacao-de-parcelas-individuais-c-duats/certificacao.md)
+  * [Formulários ODK](certificacao-de-parcelas-individuais-c-duats/formularios-odk.md)
 
