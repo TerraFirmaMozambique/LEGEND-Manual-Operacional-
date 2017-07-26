@@ -6,9 +6,9 @@ Produzir um jogo de mapas em escala 1:3,000 para servir como a base de mapeament
 
 ## Processo
 
-O processo da [delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação) das parcelas familiares e a emissão das certidões de DUAT será feito sob a gestão da associação comunitária da terra, com ajuda técnica da equipa de campo assim como a equipa técnica dos cartógrafos.
+O processo da delimitação das parcelas familiares e a emissão das certidões de DUAT será feito sob a gestão da associação comunitária da terra, com ajuda técnica da equipa de campo assim como a equipa técnica dos cartógrafos.
 
-A[delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação)comunitária já feita anteriormente servirá como a área dentro de qual a[delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação)das parcelas familiares vai ser feita. Essa área podia incluir um ou mais povoados, conforme a decisão tomada no processo de estabelecimento da associação como a entidade legal.
+A delimitação comunitária já feita anteriormente servirá como a área dentro de qual a delimitação das parcelas familiares vai ser feita. Essa área podia incluir um ou mais povoados, conforme a decisão tomada no processo de estabelecimento da associação como a entidade legal.
 
 O processo será feito através do uso de mapas físicos. Os mapas impressos serão no formato em uma escala 1:3,000 com base em imagens de satélite. Estes oferecem uma escala suficiente para a identificação de parcelas individuais e familiares \(vizualizando por exemplo arvores, machambas, casas de alvenaria e de zinco\), infraestruturas comunitárias \(p.e. estradas, caminhos, escolas, postos de saude e pontes\), plantacoes, e areas de floresta.
 
@@ -18,13 +18,13 @@ Os mapas serão utilizados pelas equipas de parcelamento, incluindo pelo menos u
 
 _**inserir imagem da grelha Malalo**_
 
-**Ferramentas**
+## **Ferramentas**
 
 Mapas no sistema QGIS
 
-**Productos**
+## **Produtos**
 
-Grelha de mapas 1:3,000 cobrindo toda a area da associacao
+Grelha de mapas 1:3,000 cobrindo toda a área da associação
 
 Jogo de mapas 1:3,000, imprimidos em escala A3
 
