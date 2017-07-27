@@ -17,5 +17,13 @@ Durante esta fase, a equipe irá identificar oportunidades para realizar exercí
 
 Os mapas finais serão exibidos num quadro de avisos num local acessível em cada comunidade.
 
+## Etapas de Planeamento do Uso da Terra  
+
+1. Sensibilização sobre o planeamento do uso da terra
+2. Zoneamento do uso actual
+3. Planeamento do uso da terra e recursos naturais
+4. Desenvolver regras para guiar a implementação do plano
+5. Aprovação pela comunidade
+
 
 
