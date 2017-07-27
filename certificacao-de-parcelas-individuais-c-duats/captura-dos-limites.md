@@ -26,33 +26,36 @@ Usando o ODK e, na presença do titular/responsável da parcela ou seu represent
 
 Caso um membro duma família não estiver registado na lista dos titulares, pode-se enscrever. Esta passo é a ultima oportunidade nesta ronda para alguém se registrar como titular ou co-titular.
 
-Imagem 3: Ilustra o momento de preenchimento do formulário no ODK
+> Picture here
+>
+> O momento de preenchimento do formulário no ODK
 
 A fase seguinte é a captura dos limites da parcela. Nesta fase, a presença do ocupante da parcela ou seu representante, assim como os vizinhos da parcela é obrigatória. Os vizinhos da parcela devem confirmar os limites para evitar possíveis conflitos de terra no futuro.
 
 A captura é feita com base em imagens satélites. A equipe de campo, facilita a interpretação das imagens, identificando a zona de trabalho. Assim, o ocupante da parcela, poderá indicar a sua _machamba_ com a confirmação dos vizinhos. O técnico de campo, irá proceder a marcação dos limites indicados da parcela na imagem satélite. Em caso de duvida, a equipe junto com os ocupantes da parcela, deslocam-se ao referido limite para confirmação.
 
-Imagem 4: Captura de limites
+> Picture here
+>
+> Captura de limites
 
 Depois a captura dos limites e a confirmação pelo o requerente e os vizinhos, a equipa preenche o recibo, deixando uma copia com o requerente. O numero de recibo serve também como o Número Único de Parcela \(NUP\), que vai ligar o georeferenciamento com os dados pessoais e detalhes da pessoa ou agregado que está a reclamar tal parcela.
 
 Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos marcados no campo para o escritório do projecto, onde os limites das parcelas serão digitalizados e ligados aos dados dos formulários ODK. O próprio banco de dados será criado usando o PostgreSQL PostGIS e o software QGIS.
 
-Conclusão:
+## Conclusão
 
-Preencher o recibo
-
-Preencher o Formulário XXX
+* Preencher o recibo
+* Preencher o Formulário XXX
 
 ## Ferramentas
 
-Tablet com Formulário L: Registo de Parcelas C-DUATS
-
-Mapas de imagens satelites da comunidade, escala 1:3,000
-
-Livro de recibos
+* Tablet com Formulário L: Registo de Parcelas C-DUATS
+* Mapas de imagens satelites da comunidade, escala 1:3,000
+* Livro de recibos
 
 ## Produtos
 
-Mapa xx
+* Mapa xx
+
+
 

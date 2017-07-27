@@ -2,7 +2,7 @@
 
 ## Objectivo
 
-xx
+
 
 ## Processo
 
@@ -20,10 +20,6 @@ Estes dados serão inscritos num registo impresso, gerido pela associação comu
 Tablet com Formulário K: Registo de Pessoas C-DUATS
 
 ## Produtos
-
-
-
-
 
 
 
