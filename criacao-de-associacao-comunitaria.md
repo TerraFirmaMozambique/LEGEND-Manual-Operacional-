@@ -118,7 +118,7 @@ Compete ao Conselho Fiscal:
 * Os objectivos são limitados ao apoio ou fomento da exploração agrícola, agropecuária ou florestal ou outras com elas directamente relacionadas ou conexas
 * Não incluem outras actividades lucrativas
 
-### Lei 8/1991 das associações
+### Lei 8/1991 das associações
 
 #### Vantagens desta Lei:
 
