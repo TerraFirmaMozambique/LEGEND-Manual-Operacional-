@@ -42,6 +42,8 @@ Depois a captura dos limites e a confirmação pelo o requerente e os vizinhos, 
 
 Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos marcados no campo para o escritório do projecto, onde os limites das parcelas serão digitalizados e ligados aos dados dos formulários ODK. O próprio banco de dados será criado usando o PostgreSQL PostGIS e o software QGIS.
 
+
+
 ## Conclusão
 
 * Preencher o recibo

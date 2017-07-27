@@ -42,15 +42,14 @@ Preencher o Formulário XXX
 
 ## Ferramentas
 
-Tablet com Formulário M: Objecções e Correcções
-
-Mapa A1 das parcelas \(imagens satélites\)
-
-Lista de requerentes
-
-Livro de recibos
+* Tablet com Formulário M: Objecções e Correcções
+* Mapa A1 das parcelas \(imagens satélites\)
+* Lista de requerentes
+* Livro de recibos
 
 ## Productos
 
-Mapa A1 das parcelas e lista de requerentes com Objecções e Correcções
+* Mapa A1 das parcelas e lista de requerentes com Objecções e Correcções
+
+
 
