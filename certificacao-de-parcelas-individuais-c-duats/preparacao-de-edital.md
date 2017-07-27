@@ -12,6 +12,10 @@ A equipa técnica dos cartógrafos produz um mapa geral das parcelas e uma lista
 
 No formato A0 ou A1, os mapas das parcelas são reproduzidos numa recomendada. O mapa é acompanhado pela lista dos requerentes \(edital\), contendo informação relevante sobre o requerente e a parcela.
 
+> ![](/assets/occ.png)![](/assets/OCClist.PNG)
+>
+> Exemplo do mapa e lista
+
 Segundo o artigo 24, do regulamento da lei de terra é obrigatório a afixação do edita em locais públicos de maior concentração da população para facilitar a consulta, o período máximo estabelecido pela legislação de terras é de 30 dias. Também o edital pode ser reproduzido no formato A0 ou A1.
 
 No\(s\) local \(is\) de fixação do edital, deve estar permanentemente 2 técnicos para explicar e acompanhar o processo.
