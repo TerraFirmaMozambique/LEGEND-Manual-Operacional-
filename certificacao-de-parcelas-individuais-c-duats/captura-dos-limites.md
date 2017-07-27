@@ -38,7 +38,7 @@ A captura é feita com base em imagens satélites. A equipe de campo, facilita a
 >
 > Captura de limites
 
-Depois a captura dos limites e a confirmação pelo o requerente e os vizinhos, a equipa preenche o recibo, deixando uma copia com o requerente. 
+Depois a captura dos limites e a confirmação pelo o requerente e os vizinhos, a equipa preenche o recibo, deixando uma copia com o requerente.
 
 > ![](/assets/recibo.png)
 >
