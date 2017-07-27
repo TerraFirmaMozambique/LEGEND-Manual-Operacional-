@@ -12,6 +12,7 @@
   * [Primeira reunião comunitária](criacao-de-associacao-comunitaria/primeira-reuniao-comunitaria.md)
   * [Primeira ronda de reuniões nos povoados](criacao-de-associacao-comunitaria/primeira-ronda-de-reunioes-nos-povoados.md)
   * [Segunda ronda de reuniões nos povoados](criacao-de-associacao-comunitaria/segunda-ronda-de-reunioes-nos-povoados.md)
+  * [Segunda reunião comunitária](criacao-de-associacao-comunitaria/segunda-reuniao-comunitaria.md)
   * [Formulários ODK](criacao-de-associacao-comunitaria/formularios-odk.md)
 * [Delimitação da área comunitária](delimitacao-da-area-comunitaria.md)
   * [Princípios básicos](delimitacao-da-area-comunitaria/principios-basicos.md)
