@@ -20,6 +20,7 @@ Os mapas numa primeira fase podem ser feitos no chão, caso contrário num papel
 * Começamos por representar os pontos cardeais
 
 * Representar características geográficas e infra-estruturas \(estradas principais, linhas férreas, etc.\) para facilitar a representação de outros elementosRepresentar os limites do povoado com os povoados vizinhos e os nomes das comunidades ou povoados vizinhos
+
 * Representar outras características geográficas e recursos naturais, ,
 * Representar infraestruturas sociais e económicos, como estradas, escolas, postos de saúde, lojas, mercados, empresas, igrejas e mesquitas, fontes de agua, e outras
 * Representar áreas dos usos principais, como habitação, machambas, florestas etc.
@@ -28,6 +29,7 @@ Os mapas numa primeira fase podem ser feitos no chão, caso contrário num papel
 * Juntar os grupos num grupo grande para fazer comparação dos resultados. Identificem aspectos comuns e aspectos diferentes
 
 * Concordar o objectivo, processo, local e hora da próxima actividade
+
 * Preencher e enviar o Formulário F
 
 ## Ferramentas
