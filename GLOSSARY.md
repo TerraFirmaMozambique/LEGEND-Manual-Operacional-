@@ -1,6 +1,6 @@
 ## Comunidade local
 
-Agrupamento de famílias e indivíduos, vivendo numa circunscrição territorial de nível de localidade ou inferior, que visa a salvaguarda de interesses comuns através de protecção de áreas habitacionais, áreas agrícolas, sejam cultivadas ou em pousio, florestas, sítios de importância cultura, pastagem, fontes de agua e áreas de expansão. 
+Agrupamento de famílias e indivíduos, vivendo numa circunscrição territorial de nível de localidade ou inferior, que visa a salvaguarda de interesses comuns através de protecção de áreas habitacionais, áreas agrícolas, sejam cultivadas ou em pousio, florestas, sítios de importância cultura, pastagem, fontes de agua e áreas de expansão.
 
 ## Consulta comunitária
 
@@ -8,7 +8,7 @@ Encontro publico com membros das comunidades locais, Governo Distrital e outros 
 
 ## Co-Titular
 
-Conjunto de 2 ou mais pessoas que podem ser singulares ou colectivos que tem Direito de Uso e Aproveitamento de Terra ao abrigo duma autorização ou através de ocupação 
+Conjunto de 2 ou mais pessoas que podem ser singulares ou colectivos que tem Direito de Uso e Aproveitamento de Terra ao abrigo duma autorização ou através de ocupação
 
 ## Delimitação
 
@@ -33,6 +33,10 @@ Registo e/ou Regularização de Direito de Uso e Aproveitamento de Terra, de for
 ## Titulo
 
 Documento emitido pelos Serviços Públicos de Cadastro, gerais ou urbanos, comprovativo de Direito de Uso e Aproveitamento de Terra.
+
+## ODK
+
+Open Data Kit: software que permite a colecção, aggregação e analise de dados numa forma digital
 
 
 
