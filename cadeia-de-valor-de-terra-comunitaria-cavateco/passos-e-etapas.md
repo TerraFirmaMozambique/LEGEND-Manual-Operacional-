@@ -1,6 +1,4 @@
-# Passos e etapas de CaVaTeCo
+### Passos e etapas de CaVaTeCo
 
 ![](/assets/passos.png)
-
-
 

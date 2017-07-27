@@ -1,4 +1,4 @@
-# O Conceito de CaVaTeCo
+### O Conceito de CaVaTeCo
 
 A Cadeia de Valor da Terra Comunitária \(conhecida de forma abreviada por CaVaTeCo\) é uma nova ferramenta conceitual, recentemente desenvolvida em Moçambique. Destina-se a ajudar a estabelecer uma abordagem estratégica mais clara para trabalhar com as comunidades locais sobre questões de terra e de governação dos recursos naturais. Aproveitando o quadro jurídico existente no país, a CaVaTeCo representa uma abordagem inovadora para o mapeamento e documentação dos direitos de posse e de uso da terra e dos recursos naturais associados, abrangendo tanto os direitos comunais e a nível de agregado familiar e abordando de forma abrangente questões de capacidade institucional, legitimidade e equidade.
 

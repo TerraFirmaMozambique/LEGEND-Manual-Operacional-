@@ -1,4 +1,4 @@
-# Sensibilização
+### Sensibilização
 
 Conforme estipulado pela Anexo Técnico, o processo de delimitação comunitária deve, por lei, ser precedido de uma série de consultas comunitárias na qual a informação em relação à terra, floresta e legislação ambiental é transmitida e a comunidade têm a oportunidade de compreender melhor as implicações de delimitar as suas terras e as actividades e os passos principais que isso implicará.
 
@@ -10,15 +10,13 @@ As actividades de sensibilização serão conduzidas separadamente em todos os p
 
 No fim de processo de sensibilização, cada comunidade terá a oportunidade de confirmar ou rejeitar a sua participação no projecto.
 
-## Etapas da Sensibilização 
+#### Etapas da Sensibilização
 
 1. Marcação de encontros em cada comunidade.
 2. Em cada comunidade, encontro com os líderes influentes, incluindo o régulo e os chefes dos povoados ou seus representantes e do representante do governo \(posto administrativo / localidade\).
 3. Se for necessário, realização dum encontro a nível da comunidade, com a presença do régulo, dos chefes dos povoados, e do chefe da localidade.
 4. Em cada comunidade, encontros em cada povoado, com a presença do chefe do povoado.
 5. Depois dos encontros nos povoados, encontro de balanço com os líderes da comunidade, para resumir o processo e tomar decisão sobre participação ou não no projecto.
-
-
 
 
 
