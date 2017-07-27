@@ -38,5 +38,9 @@ Documento emitido pelos Serviços Públicos de Cadastro, gerais ou urbanos, comp
 
 Open Data Kit: software que permite a colecção, aggregação e analise de dados numa forma digital
 
+## CaVaTeCo
+
+Cadeia de Valor de Terra Comunitária
+
 
 
