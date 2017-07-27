@@ -10,6 +10,7 @@
   * [Preparação para as Visitas](criacao-de-associacao-comunitaria/preparacao-para-as-visitas.md)
   * [Princípios básicos](criacao-de-associacao-comunitaria/principios-basicos.md)
   * [Formulários ODK](criacao-de-associacao-comunitaria/formularios-odk.md)
+  * Primeira reunião comunitária
 * [Delimitação da área comunitária](delimitacao-da-area-comunitaria.md)
   * [Princípios básicos](delimitacao-da-area-comunitaria/principios-basicos.md)
   * [Sensibilização](delimitacao-da-area-comunitaria/sensibilizacao.md)
