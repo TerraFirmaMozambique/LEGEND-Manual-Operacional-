@@ -1,4 +1,4 @@
-# Formulários no Estabelecimento das Associações
+# Formulários usados no estabelecimento das associações
 
 ![](/assets/Assoc.png)
 
