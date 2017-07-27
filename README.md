@@ -1,8 +1,4 @@
-# Manual Operacional de CaVaTeCo
-
-
-
-
+### Manual Operacional de CaVaTeCo
 
 
 
