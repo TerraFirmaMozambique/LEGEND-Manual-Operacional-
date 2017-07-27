@@ -38,7 +38,13 @@ A captura é feita com base em imagens satélites. A equipe de campo, facilita a
 >
 > Captura de limites
 
-Depois a captura dos limites e a confirmação pelo o requerente e os vizinhos, a equipa preenche o recibo, deixando uma copia com o requerente. O numero de recibo serve também como o Número Único de Parcela \(NUP\), que vai ligar o georeferenciamento com os dados pessoais e detalhes da pessoa ou agregado que está a reclamar tal parcela.
+Depois a captura dos limites e a confirmação pelo o requerente e os vizinhos, a equipa preenche o recibo, deixando uma copia com o requerente. 
+
+> ![](/assets/recibo.png)
+>
+> Exemplo do recibo
+
+O numero de recibo serve também como o Número Único de Parcela \(NUP\), que vai ligar o georeferenciamento com os dados pessoais e detalhes da pessoa ou agregado que está a reclamar tal parcela.
 
 Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos marcados no campo para o escritório do projecto, onde os limites das parcelas serão digitalizados e ligados aos dados dos formulários ODK. O próprio banco de dados será criado usando o PostgreSQL PostGIS e o software QGIS.
 
