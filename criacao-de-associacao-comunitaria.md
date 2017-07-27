@@ -96,5 +96,46 @@ Compete ao Conselho Fiscal:
 * Analisar as queixas dos membros da Associação, relativamente as decisões e actuações do Conselho de Direcção;
 * Apresentar o relatório de prestação de contas do seu trabalho nas sessões da Assembleia Geral.
 
+## Comparação das Leis das Associações
+
+### Lei 2/2006 das associações agropecuárias
+
+#### Vantagens desta Lei:
+
+* Estabelecimento fácil e rápido:
+  * Membros precisam qualquer documentação \(incluindo BI ou outro documento válido emitido por entidade pública, ou pela abonação de duas testemunhas, ou ainda pelo reconhecimento pessoal da autoridade administrativa
+  * Reconhecido ao nível de Posto Administrativo ou Distrito
+* O tipo da instituição mas comum para lidar com a terra e os recursos naturais
+* Têm como objectivo defender os interesses dos seus membros, fomentando e apoiando a produção, a transformação, a conservação, a distribuição, o transporte e a comercialização de bens e produtos relativos às suas actividades
+* Representar os seus interesses perante a Lei
+* Abrir conta bancária em nome da associação comunitária
+* Celebrar contratos legalmente válidos
+* A associação legalmente constituída pode beneficiar-se de incentivos
+* Mais flexível em termos de tramitação de processo até ao despacho
+
+#### Desvantagens desta Lei:
+
+* Os objectivos são limitados ao apoio ou fomento da exploração agrícola, agropecuária ou florestal ou outras com elas directamente relacionadas ou conexas
+* Não incluem outras actividades lucrativas
+
+### Lei 8/1991 das associações
+
+#### Vantagens desta Lei:
+
+* Os objectivos são abrangentes, admitindo varias actividades
+* Representar os seus interesses perante a Lei
+* As associações poderão requerer a declaração de utilidade publica desde que prossigam fins de interesse geral ou da comunidade. 
+* Abrir conta bancária em nome da associação comunitária
+* Celebrar contratos legalmente válidos 
+* A associação legalmente constituída pode beneficiar-se de incentivos
+
+#### Desvantagens desta Lei:
+
+* Membros tem que ter BIs e Registo Criminal, tratado ao nível provincial
+* Registo criminal deve ser tramitado em Maputo
+* Reconhecido ao nível de provincial, qual processo pode ser moroso 
+* Tem que enviar anualmente ao Ministério das Finanças e ao Tribunal Administrativo o relatório e as contas do exercício findo
+* O processo de tramitação e moroso, pode levar mais de 9 meses para o despacho
+
 
 
