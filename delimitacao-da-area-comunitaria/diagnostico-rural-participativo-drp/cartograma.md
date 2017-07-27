@@ -1,6 +1,6 @@
 # Cartograma
 
-é a representação gráfica sobre a localização da área, contendo informações topológicas e outros dados indicados nos mapas participativos, que é o resultado do consenso da comunidade sobre os diferentes mapas participativos. Importa referir que estes mapas participativos são os que foram elaborados pelas mulheres e homens.
+O cartograma é a representação gráfica sobre a localização da área, contendo informações topológicas e outros dados indicados nos mapas participativos, que é o resultado do consenso da comunidade sobre os diferentes mapas participativos. Importa referir que estes mapas participativos são os que foram elaborados pelas mulheres e homens.
 
 A mapa criada agora vai ser digitalizado nas imagens satélites pela a equipa técnica, juntos com informação dos pontos de interesse gravados usando Formulario A1. Esse mapa digital vai servir como a base de desenvolvimento do georeferenciamento e esboço feito pelo SPGC.
 
