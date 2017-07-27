@@ -14,18 +14,27 @@ Os produtos desejados a partir desses processos da cadeia de valor são os benef
 
 O ponto de partida é, portanto, baseado nos direitos, aproveitando os direitos legais sobre a terra adquiridos pela maioria dos ocupantes de terras rurais no quadro da lei moçambicana. O processo de intervenção, que transforma esta "matéria-prima" no produto desejado, é o cerne deste conceito e abrange as intervenções estratégicas que são necessárias por parte das comunidades, os actores da sociedade civil \(e do Estado\), a fim de que a transformação seja bem-sucedida.
 
-Há três componentes essências para o processo de transformação, resumidas:  
+Há três componentes essências para o processo de transformação, resumidas:
 
-* Ajudar a criar a capacidade institucional dentro duma comunidade local, incluindo a delimitação formal dos direitos da comunidade e estabelecer uma entidade com personalidade jurídica para a comunidade, que lhe permita lidar com o mundo exterior;
-* Facilitar o mapeamento e o plano participativo dos usos actuais e futuros de terras e recursos dentro da comunidade e identificar ameaças e oportunidades locais relacionadas aos seus direitos adquiridos de modo a gerir os recursos naturais e terra;
-* Ajudar a entidade comunitária e seus membros a exercer seus direitos; É neste ponto que a cadeia de valor pode levar várias direcções, nenhuma das quais é mutuamente exclusiva. Pode focar numa comunidade:
+* Ajudar a criar a **capacidade institucional** dentro duma comunidade local, incluindo a delimitação formal dos direitos da comunidade e estabelecer uma entidade com personalidade jurídica para a comunidade, que lhe permita lidar com o mundo exterior;
+* Facilitar o **mapeamento e o plano participativo dos usos actuais e futuros de terras e recursos** dentro da comunidade e identificar ameaças e oportunidades locais relacionadas aos seus direitos adquiridos de modo a gerir os recursos naturais e terra;
+* Ajudar a entidade comunitária e seus membros a **exercer seus direitos**; É neste ponto que a cadeia de valor pode levar várias direcções, nenhuma das quais é mutuamente exclusiva. Pode focar numa comunidade:
   * Aumentando sua participação nos processos de alocação de terras pelo Estado;
   * Alavancando seus direitos estatutários para uma percentagem das taxas de licença de uso de recursos locais;
   * Aproveitar as oportunidades para estabelecer parcerias com operadores comerciais;
   * Desenvolver abordagens de conservação que lhe permitam beneficiar de programas relacionados ao aumento do seqüestro de carbono ou proteção dos serviços ecossistêmicos;
   * e / ou permitir que indivíduos e famílias demarquem suas terras, incluindo abordagem de questões de posse para mulheres e outros membros vulneráveis da comunidade.
 
-![](/assets/cavateco_branches.png)
+Dentro do processo de transformação, portanto, existem diferentes pilares e actividades de CaVaTeCo, que são melhor representados conceptualmente através de um diagrama, conforme mostrado abaixo.
+
+> ![](/assets/cavateco_branches.png)A Cadeia de Valor de Terra Comunitária \(detalhada\)
+
+Dentro de cada uma destas componentes, a plataforma CaVaTeCo aproveita várias ferramentas e opções legais e técnicas para realizar actividades e abordar problemas e desafios. Mas a abordagem CaVaTeCo também agrega valor ao quadro jurídico existente sobre a delimitação de terras da comunidade e das familias, das seguintes maneiras:
+
+* Estabelece **associações registadas como entidades legais** para representar a comunidade, fornecendo-lhes uma capacidade institucional para lidar com o mundo exterior;
+* Proporciona ferramentas que ajudam a **identificar e mapear claramente áreas importantes nas terras da comunidade sobre as quais exercerão controle de gestão** \(áreas de conservação, áreas sagradas, firebreaks, etc.\), bem como ferramentas para títulos de DUATs e planos de uso de recursos naturais para orientar a tomada de decisões ao longo do tempo;
+* **Identifica, desmembra e formaliza claramente a posse e direitos adquiridos nas explorações terras familiares**, através de um processo legítimo que permite que a comunidade em geral confirme esses direitos.
+* Faz de forma **mais eficiente a um custo menor por delimitação da comunidade e por parcela demarcada,** em comparação com as abordagens padrão.
 
 
 
