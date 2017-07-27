@@ -1,36 +1,15 @@
 # Criação de Associação Comunitária
 
-A abordagem CaVaTeCo incorpora o estabelecimento de um organismo representativo para a comunidade delimitada, baseado à Lei das Associações 02 / 2006. Estas associações serão responsáveis para a supervisão dos processos subsequentes de certificação comunitária e individual. 
+A abordagem CaVaTeCo incorpora o estabelecimento de um organismo representativo para a comunidade delimitada, baseado à Lei das Associações 02/2006. Estas associações serão responsáveis para a supervisão dos processos subsequentes de certificação comunitária e individual.
 
 A fim de supervisionar o processo de formalização que irá resultar na emissão de DUATs individuais, a equipe vai, portanto, ajudar a comunidade a criar uma associação legalmente reconhecida, de base comunitária, que será de natureza de uma associação de propriedade comunal \(CPA\). O fracasso em estabelecer tais entidades tem sido um ponto fraco do processo de delimitação da comunidade até agora e é uma das inovações da abordagem CaVaTeCo. A equipe será treinada em como facilitar a discussão, de modo a que os membros da comunidade possam tomar decisões informadas sobre:
 
-•	Entrada e saída
-
-•	Uso e controle
-
-•	Processos de Gestão
-
-•	Protocolos de resolução de conflitos
+1. Entrada e saída
+2. Uso e controle
+3. Processos de Gestão
+4. Protocolos de resolução de conflitos
 
 As atividades subsequentes incluirão a elaboração conjunta de estatutos adequados para a entidade, auxiliando os membros fundadores a reunir a documentação necessária e ajudar na recepção e processamento dos pedidos de reconhecimento formal. A equipe também irá garantir a publicação dos estatutos da associação da comunidade no Boletim da República.
-
-Etapas da Estabelecimento das Associações 
-
-2.1.	Sensibilização sobre o papel das associações comunitárias de terra
-
-2.2.	Informação e diagnostico institucional da comunidade
-
-2.3.	Sensibilização da comunidade e trabalho sobre a representatividade
-
-2.4.	Estatutos e regulamentos da associação
-
-2.5.	Consolidação da representatividade, estatutos e identificação da acção administrativa necessária
-
-2.6.	Implementação da acção administrativa
-
-2.7.	Aprovação oficial da associação comunitária
-
-2.8.	Formação em negociação com investidores 
 
 ## Conceitos Básicos na criação duma Associação
 

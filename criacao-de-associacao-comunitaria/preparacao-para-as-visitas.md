@@ -1,5 +1,16 @@
 # Preparação para as Visitas
 
+## As etapas de estabelecimento das associações
+
+1. Sensibilização sobre o papel das associações comunitárias de terra
+2. Informação e diagnostico institucional da comunidade
+3. Sensibilização da comunidade e trabalho sobre a representatividade
+4. Estatutos e regulamentos da associação
+5. Consolidação da representatividade, estatutos e identificação da acção administrativa necessária
+6. Implementação da acção administrativa
+7. Aprovação oficial da associação comunitária
+8. Formação em negociação com investidores
+
 Antes do inicio desta fase do trabalho:
 
 * Reunião informativa com governo - o processo começa com uma reunião informativa com a administração do distrito, o respectivo posto administrativo e autoridades da localidade sobre o trabalho.
@@ -25,16 +36,7 @@ Antes de todas as visitas:
 * GarminGlo
 * Anexo Técnico: Formulário 1
 
-## Etapas Principais
 
-1. Sensibilização sobre o papel das associações comunitárias de terra
-2. Informação e diagnostico institucional da comunidade
-3. Sensibilização da comunidade e trabalho sobre a representatividade
-4. Estatutos e regulamentos da associação
-5. Consolidação da representatividade, estatutos e identificação da acção administrativa necessária
-6. Implementação da acção administrativa
-7. Aprovação oficial da associação comunitária
-8. Formação em negociação com investidores
 
 
 
