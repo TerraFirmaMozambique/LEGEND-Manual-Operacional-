@@ -11,32 +11,24 @@ Fornecer informações gerais sobre a localização e/ou situação geográfica 
 ## Processo
 
 1. Apresentação dos mapas elaborados pelos grupos;
-
 2. Identificação das convergências e divergências dos mapas elaborados;
-
 3. Elaboração conjunta \(homens e mulheres\) do mapa consenso;
-
 4. Informação da próxima actividade;
-
 5. Preencher e enviar Formulários D e H \(e possivelmente A1\);
-
 6. Preencher e assinar o Formulário 3 do Anexo Técnico
 
 ## Ferramentas
 
-•    Formulário D: Encontro da Diagnóstica Participativa
-
-•    Formulário H: Cartograma
-
-•    Mapas de imagens satélites
+* Formulário D: Encontro da Diagnóstica Participativa
+* Formulário H: Cartograma
+* Mapas de imagens satélites
 
 ## Produtos
 
-•    Mapas
+* Mapas
+* Imagens \(fotos\) de cartograma submetido através do ODK Formulário H
+* Coordenadas do local de realização do encontro
+* Formulário 3 do Anexo Técnico
 
-•    Imagens \(fotos\) de cartograma submetido através do ODK Formulário H
 
-•    Coordenadas do local de realização do encontro
-
-•    Formulário 3 do Anexo Técnico
 
