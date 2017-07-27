@@ -7,6 +7,8 @@
 * [Sensibilização](sensibilizacao.md)
   * [Formulários ODK](sensibilizacao/formularios-odk.md)
 * [Criação de Associação Comunitária](criacao-de-associacao-comunitaria.md)
+  * [Preparação para as Visitas](criacao-de-associacao-comunitaria/preparacao-para-as-visitas.md)
+  * [Princípios básicos](criacao-de-associacao-comunitaria/principios-basicos.md)
   * [Formulários ODK](criacao-de-associacao-comunitaria/formularios-odk.md)
 * [Delimitação da área comunitária](delimitacao-da-area-comunitaria.md)
   * [Princípios básicos](delimitacao-da-area-comunitaria/principios-basicos.md)
