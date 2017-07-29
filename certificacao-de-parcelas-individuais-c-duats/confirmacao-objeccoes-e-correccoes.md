@@ -25,7 +25,7 @@ xx
 
 Durante o período do edital, os membros das comunidades, com base no código cadastral da parcela e munidos do respectivo documento de identificação verificam, no mapa, se a localização e os limites da o parcela estão conforme, assim como a informação contida na tabela. Poderão confirmar ou reclamar para se corrigir, havendo, para isso, durante a exposição do edital, um caderno de registo. Neste período não será permitido a inscrição de novos titulares ou co-titulares.
 
-> ![](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/assets/edital_consult1.jpg)
+> ![](/assets/edital_consult1.jpg)
 >
 > Membros das comunidades consultando edital
 
