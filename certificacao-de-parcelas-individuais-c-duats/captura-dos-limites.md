@@ -22,7 +22,7 @@ Em linha com as melhores práticas internacionais nesta matéria, a identificaç
 
 O ODK fornece um formulário no ecrã a ser preenchido para cada requerente que queira registar a sua parcela de terra, incluindo as coordenadas geográficas da terra \(quando necessário\), o que permite o seu parcelamento nos mapas topográficos. Estes formulários são então submetidos através da internet a um site de agregação personalizada, criado em um servidor que será instalado nos escritórios da ORAM e que junta todos os dados e cria os registos para o banco de dados de certificação.
 
-Usando o ODK e, na presença do titular/responsável da parcela ou seu representante, é preenchido o formulário digital, onde é recolhido informação do titular e da parcela. Para tal é solicitado o documento de identificaçãodo titular, caso este não tenha será recomendado ao titular a requerer a identificação \(declaração\) emitida pelas autoridades locais, para o efeito. Será solicitada uma fotocópia de documento de identificação para posterior formação do processo nos SPGCs.
+Usando o ODK e, na presença do titular/responsável da parcela ou seu representante, é preenchido o formulário digital, onde é recolhido informação do titular e da parcela. Para tal é solicitado o documento de identificação do titular, caso este não tenha será recomendado ao titular a requerer a identificação \(declaração\) emitida pelas autoridades locais, para o efeito. Será solicitada uma fotocópia de documento de identificação para posterior formação do processo nos SPGCs.
 
 Caso um membro duma família não estiver registado na lista dos titulares, pode-se enscrever. Esta passo é a ultima oportunidade nesta ronda para alguém se registrar como titular ou co-titular.
 
