@@ -56,7 +56,7 @@ Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos m
 ## Ferramentas
 
 * Tablet com Formulário L: Registo de Parcelas C-DUATS
-* Mapas de imagens satelites da comunidade, escala 1:3,000
+* Mapas de imagens satélites da comunidade, escala 1:3,000
 * Livro de recibos
 
 ## Produtos
