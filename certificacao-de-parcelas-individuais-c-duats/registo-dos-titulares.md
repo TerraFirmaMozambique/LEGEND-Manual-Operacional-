@@ -43,7 +43,7 @@ Os passos do processo sao:
 
 6. Repete o processo com o proximo requerente. Normalente o processo de registo leve mais ou menos 15 minutos por pessoa.
 
-4.3 No fim de dia, envie os formularios preenchidos ao servidor. A equipa tecnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulario L: Registo das Parcelas.
+4.3 No fim de dia, envie os formularios preenchidos ao servidor. A equipa técnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulario L: Registo das Parcelas.
 
 ## Ferramentas
 

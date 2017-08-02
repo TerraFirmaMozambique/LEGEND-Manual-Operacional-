@@ -1,6 +1,6 @@
 # Certificação de DUATs
 
-## Produção do mapa e lista final de parcelas {#produção-do-mapa-e-lista-final-de-parcelas}
+# Produção do mapa e lista final de parcelas
 
 ### Objectivo
 
@@ -26,7 +26,7 @@ Formulário XXX+
 
 xx
 
-## Emissão de certificados pela a associação {#emissão-de-certificados-pela-a-associação}
+# Emissão de certificados pela a associação
 
 ### Objectivo
 
