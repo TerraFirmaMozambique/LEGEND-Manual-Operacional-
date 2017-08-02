@@ -27,13 +27,13 @@ Os passos do processo sao:
 
 4. **No dia do registo**:
 
-4.1 No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade
+4.1 No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
 
 4.2 Para cada requerente:
 
 1. Confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao.
 
-2. Confirmar se o requerente quer fazer registro como titular unico ou em co-titularidade. Um requerente \(ou dois ou mais co-titulares\) que tem mais de que uma parcela tem que registar somente uma vez. 
+2. Confirmar se o requerente quer fazer registro como titular unico ou em co-titularidade. Um requerente \(ou dois ou mais co-titulares\) que tem mais de que uma parcela tem que registar como Titular somente uma vez, e vai poder delimitar mais do que uma parcela.
 
 3. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\).
 
