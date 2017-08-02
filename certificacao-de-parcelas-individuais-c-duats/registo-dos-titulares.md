@@ -13,13 +13,13 @@ O processo de formalização começa com o registo das pessoas que desejem certi
 
 Os passos do processo sao:
 
-1. Com a Associacao, confirmar o local e os dias de processo de registo dos titulares. O local deve ser numa area publica, com livre acesso para todos membros da comunidade, sem nenhuma ligacao a uma igresa ou partido. 
+1. Com a Associacao, confirmar o local e os dias de processo de registo dos titulares. O local deve ser numa area publica, com livre acesso para todos membros da comunidade, sem nenhuma ligacao a qualquer instituicao que podia criar desconforte or barreiras para participacao de qualque pessoa \(p.e. nao pode ser feito numa igresa ou no local de encontro dum partido politico\).
 
-2. Normalmente tem que ser um periodo de pelo menos 3 ou 4 dias, para garantir que todos requerentes tenham uma oportunidade de registar. 
+2. Normalmente tem que ser um periodo de pelo menos 3 ou 4 dias, para garantir que todos requerentes tenham uma oportunidade de registar.
 
 3. No dia antes de inicio do processo, confirmar que o tablet esta carregado, e que tem a versao mais atualizada do Formulário K: Registo de Pessoas C-DUATS.
 
-4. Montar um lugar para 
+4. Montar um lugar para
 
 5. A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
 
