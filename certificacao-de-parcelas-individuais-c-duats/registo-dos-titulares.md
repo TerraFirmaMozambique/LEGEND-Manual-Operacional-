@@ -13,9 +13,11 @@ O processo de formalização começa com o registo das pessoas que desejem certi
 
 Os passos do processo sao:
 
-1. Confirmar que o tablet esta carregado, e que tem a versao mais atualizada do Formulário K: Registo de Pessoas C-DUATS
+1. Com a Associacao, confirmar os dias de processo de registo dos titulares. Normalmente tem que ser um periodo de pelo menos 3 ou 4 dias, para garantir que todos requerentes tenham uma oportunidade de registar. 
 
-2. A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
+2. Confirmar que o tablet esta carregado, e que tem a versao mais atualizada do Formulário K: Registo de Pessoas C-DUATS
+
+3. A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
 
 Estes dados serão inscritos num registo impresso, gerido pela associação comunitária. No final do processo de [delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação) de campo e de registo, os dados do registo, também serão recolhidos sistematicamente através de um outro formulário ODK personalizado.
 
