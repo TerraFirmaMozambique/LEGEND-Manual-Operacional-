@@ -26,14 +26,21 @@ Os passos do processo sao:
    3. _material: _ confirmar que o tablet esta carregado, e que tem a versao mais atualizada do Formulário K: Registo de Pessoas C-DUATs. Confirmar que o local de registo tem cadeiras e uma mesa se for possivel.
 
 4. **No dia do registo**:  
-   1. No inicio de trabalho, normalmente tem varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.  
-   2. Para cada requerente:
+   1. No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
 
-   1. confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao.
+2. Para cada requerente:
 
-   2. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\).
+1. confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao.
 
-5. Estes dados serão inscritos num registo impresso, gerido pela associação comunitária. No final do processo de [delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação) de campo e de registo, os dados do registo, também serão recolhidos sistematicamente através de um outro formulário ODK personalizado.
+2. confirmar se o requerente quer fazer registro como titular unico ou em co-titularidade.  
+
+3. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\).
+
+4. Depois de preencher, rever e confirmar os dados com o requerente.
+
+5. explicar os proximos passos para delimitacao das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.
+
+1. Estes dados serão inscritos num registo impresso, gerido pela associação comunitária. No final do processo de [delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação) de campo e de registo, os dados do registo, também serão recolhidos sistematicamente através de um outro formulário ODK personalizado.
 
 ## Ferramentas
 
