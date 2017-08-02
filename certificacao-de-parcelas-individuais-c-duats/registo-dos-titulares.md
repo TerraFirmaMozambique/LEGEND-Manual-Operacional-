@@ -19,20 +19,19 @@ Os passos do processo sao:
 
 3. **Preparação pela equipa:** Antes de inicio do processo, confirme:
 
-4. _membros_: Os membros da equipa normalmente incluem um membro da associação, com ajuda dum motivador \(que podia supervisar 4 ou 5 lugares de registro se for necessario\). Tambem e conselhavel a participacao dum lider comunitario \(p.e. regulo da 3a escalao, chefe do povoado ou chefe da zona\).
+   1. _membros_: Os membros da equipa normalmente incluem um membro da associação, com ajuda dum motivador \(que podia supervisar 4 ou 5 lugares de registro se for necessario\). Tambem e conselhavel a participacao dum lider comunitario \(p.e. regulo da 3a escalao, chefe do povoado ou chefe da zona\) para mostrar que a lideranca esta envolvido no processo.
 
-5. _capacidade_: os membros da equipa dominem uso do tablet e do Formulário K: Registo de Pessoas C-DUATs.
+   2. _capacidade_: os membros da equipa dominem uso do tablet e do Formulário K: Registo de Pessoas C-DUATs.
 
-6. _material: _ confirmar que o tablet esta carregado, e que tem a versao mais atualizada do Formulário K: Registo de Pessoas C-DUATs. Confirmar que o local de registo tem cadeiras e uma mesa se for possivel.
+   3. _material: _ confirmar que o tablet esta carregado, e que tem a versao mais atualizada do Formulário K: Registo de Pessoas C-DUATs. Confirmar que o local de registo tem cadeiras e uma mesa se for possivel.
 
-7. **No dia do registo**: 
+1. **No dia do registo**:
+   1. No inicio de trabalho, normalmente tem varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
+   2. Para cada requerente:
+      1. confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao. 
+      2. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\). 
 
-8. No inicio de trabalho, normalmente tem varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
-
-9. Para cada requerente, preencher o "Formulário K: Registo de Pessoas C-DUATs".
-
-10. 
-Estes dados serão inscritos num registo impresso, gerido pela associação comunitária. No final do processo de [delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação) de campo e de registo, os dados do registo, também serão recolhidos sistematicamente através de um outro formulário ODK personalizado.
+1. Estes dados serão inscritos num registo impresso, gerido pela associação comunitária. No final do processo de [delimitação](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/GLOSSARY.html#delimitação) de campo e de registo, os dados do registo, também serão recolhidos sistematicamente através de um outro formulário ODK personalizado.
 
 ## Ferramentas
 
