@@ -30,11 +30,9 @@ xx
 
 ### Objectivo
 
-xx
+Emissão pela a associação dos certificados para titulares das áreas familiares delimitadas \(C-DUAT\).
 
 ### Processo
-
-xx
 
 A associação emite certificados para titulares das áreas familiares delimitadas. A emissão dos certificados deve ocorrer dentro de um período de 60 dias após a apresentação dos pedidos.
 
