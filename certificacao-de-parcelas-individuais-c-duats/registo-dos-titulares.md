@@ -31,9 +31,9 @@ Os passos do processo sao:
 
 4.2 Para cada requerente:
 
-1. confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao.
+1. Confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao.
 
-2. confirmar se o requerente quer fazer registro como titular unico ou em co-titularidade.
+2. Confirmar se o requerente quer fazer registro como titular unico ou em co-titularidade. Um requerente \(ou dois ou mais co-titulares\) que tem mais de que uma parcela tem que registar somente uma vez. 
 
 3. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\).
 
