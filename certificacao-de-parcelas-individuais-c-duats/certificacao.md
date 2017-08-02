@@ -48,9 +48,13 @@ _**inserir imagem dum certificado**_
 
 ### Ferramentas
 
-Base de dados com informacao de Formulário K: Registo de Pessoas C-DUATS e Formulário L: Registo de Pessoas C-DUATS
+Base de dados com informacao de Formulário K: Registo de Pessoas C-DUATs e Formulário L: Registo de Parcelas C-DUATs
+
+Modelo de Certificados de DUAT
 
 ### Produtos
 
-xx
+Certificado de DUAT para cada parcela
+
+
 
