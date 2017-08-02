@@ -1,4 +1,4 @@
-# Registo dos titulares
+# Registo dos Titulares
 
 ## Objectivo
 
