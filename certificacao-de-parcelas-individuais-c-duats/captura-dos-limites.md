@@ -51,11 +51,11 @@ Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos m
 ## Conclusão
 
 * Preencher o recibo
-* Preencher o Formulário XXX
+* Preencher o Formulário L: Registo de Parcelas C-DUATs
 
 ## Ferramentas
 
-* Tablet com Formulário L: Registo de Parcelas C-DUATS
+* Tablet com Formulário L: Registo de Parcelas C-DUATs
 * Mapas de imagens satélites da comunidade, escala 1:3,000
 * Livro de recibos
 
