@@ -1,10 +1,10 @@
-# Produção de grelha e mapas da área
+### Produção de grelha e mapas da área
 
-## **Objectivo**
+#### **Objectivo**
 
 Produzir um jogo de mapas em escala 1:3,000 para servir como a base de mapeamento das parcelas familiares.
 
-## Processo
+#### Processo
 
 O processo da delimitação das parcelas familiares e a emissão das certidões de DUAT será feito sob a gestão da associação comunitária da terra, com ajuda técnica da equipa de campo assim como a equipa técnica dos cartógrafos.
 
@@ -18,11 +18,11 @@ Os mapas serão utilizados pelas equipas de parcelamento, incluindo pelo menos u
 
 _**inserir imagem da grelha Malalo**_
 
-## **Ferramentas**
+#### **Ferramentas**
 
 Mapas no sistema QGIS
 
-## **Produtos**
+#### **Produtos**
 
 Grelha de mapas 1:3,000 cobrindo toda a área da associação
 

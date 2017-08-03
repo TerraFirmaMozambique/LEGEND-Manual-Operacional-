@@ -1,6 +1,6 @@
-# Campanha de sensibilização e divulgação de calendário de actividades
+### Campanha de sensibilização e divulgação de calendário de actividades
 
-## **Objectivo:**
+#### **Objectivo:**
 
 xxx
 
@@ -10,11 +10,11 @@ As reuniões públicas são de grande importância, pois fazem com que a mensage
 >
 > Reuniões públicas nas comunidades para explicação e esclarecimento do trabalho
 
-## **Processo**
+#### **Processo**
 
-Nestes encontros, os membros da associação com ajuda da equipa do campo vão recordar os membros da comunidade dos processos já feitas, incluindo o estabelecimento da associação, e a delimitação comunitária. 
+Nestes encontros, os membros da associação com ajuda da equipa do campo vão recordar os membros da comunidade dos processos já feitas, incluindo o estabelecimento da associação, e a delimitação comunitária.
 
-Vão mostrar e confirmar o mapa da delimitação comunitária já feito anteriormente pela a associação e os membros da comunidade \(ou povoado\). 
+Vão mostrar e confirmar o mapa da delimitação comunitária já feito anteriormente pela a associação e os membros da comunidade \(ou povoado\).
 
 Vão explicar todos os passos a seguir no processo, assim como os requerimentos dos titulares e co-titulares.
 
@@ -22,11 +22,11 @@ A equipa explica que vai-se mapear e confirmar os limites de cada parcela famili
 
 A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
 
-## **Ferramentas**
+#### **Ferramentas**
 
 Preencher o Formulário XXX
 
-## **Produtos**
+#### **Produtos**
 
 xx
 
