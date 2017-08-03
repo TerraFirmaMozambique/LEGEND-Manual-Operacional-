@@ -1,10 +1,10 @@
-# Registo dos Titulares
+### Registo dos Titulares
 
-## Objectivo
+#### Objectivo
 
 Registar todos os requerentes da comunidade que desejem certidões para suas parcelas
 
-## Processo
+#### Processo
 
 O processo de formalização começa com o registo das pessoas que desejem certidões para suas parcelas. Este processo de registo dos titulares é mais uma oportunidade muito importante de enfatizar os direitos das mulheres. A família tem varias opções:
 
@@ -45,11 +45,11 @@ Os passos do processo sao:
 
 4.3 No fim de dia, envie os formularios preenchidos ao servidor. A equipa técnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulario L: Registo das Parcelas.
 
-## Ferramentas
+#### Ferramentas
 
 Tablet com Formulário K: Registo de Pessoas C-DUATS
 
-## Produtos
+#### Produtos
 
 Lista dos requerentes
 
