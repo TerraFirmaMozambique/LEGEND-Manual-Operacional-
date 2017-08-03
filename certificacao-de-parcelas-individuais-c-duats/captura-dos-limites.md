@@ -1,11 +1,12 @@
-# Identificação dos limites das parcelas familiares
+### Identificação dos limites das parcelas familiares
 
-## Natureza de demarcação vs. delimitação
+#### Natureza de demarcação vs. delimitação
 
 A identificação dos limites refere-se a um processo de marcação num mapa da localização dos limites de cada área para o qual alguém deseja reivindicar um DUAT.
 
-Existem maneiras diferentes de fazer a identificação destes limites. Os limites de DUATs cedidos pelo Estado aos terceiros tem que ser identificados através de processo legal de **demarcarão**, em que é necessário a utilização de equipamento de GPS por um agrimensor ajuramentado, acompanhado de demarcação física dos limites, colocando marcadores.  
- Mas os DUATs adquiridos por ocupação podem ser identificados usando um processo alternativo, menos exigente, conhecido como **delimitação**.
+Existem maneiras diferentes de fazer a identificação destes limites. Os limites de DUATs cedidos pelo Estado aos terceiros tem que ser identificados através de processo legal de **demarcarão**, em que é necessário a utilização de equipamento de GPS por um agrimensor ajuramentado, acompanhado de demarcação física dos limites, colocando marcadores.
+
+Mas os DUATs adquiridos por ocupação podem ser identificados usando um processo alternativo, menos exigente, conhecido como **delimitação**. A delimitação, em linha com as melhores práticas internacionais nesta matéria, envolve a identificação dos limites das parcelas de acordo com o principio de 'limite geral'. Isto significa que não há necessidade para vigiar os limites, e que podem ser identificados sempre que possível através de referências visíveis dos limites nas imagens de satélite impressas. Quando tal não for possível, um dispositivo GPS simples será usado para tirar pontos limítrofes.
 
 Para o processo de certificação local no âmbito de CaVaTeCo, podemos usar o processo de delimitação, em que:
 
@@ -14,27 +15,44 @@ Para o processo de certificação local no âmbito de CaVaTeCo, podemos usar o p
 * a ferramenta principal utilizada é a imagem de satélite
 * não exige que os requerentes demarquem fisicamente as suas parcelas
 
-## Objectivo
+#### Objectivo
 
 O principal objectivo da delimitação é, é claro, identificar os limites das parcelas de cada requerente ou família. Isto é feito nos mapas A3, para que depois os limites podem ser digitalizados dentro do SIG.
 
 Mas um objectivo igualmente importante neste processo é tentar garantir que não haja disputas sobre onde os limites ficam entre parcelas vizinhas, ou para resolver essas disputas através do processo de delimitação. Por esse motivo, é importante que os membros da equipa e representantes da comunidade trabalhem não apenas com o requerente, mas também na presença dos seus vizinhos.
 
-## Processo
+#### Processo
 
-xx
+##### Reunião Pública
 
-O chefe da equipe apresenta os membros da sua equipe e, breve explicação do trabalho, tendo em consideração as informações apresentadas durante a reunião pública.
+O chefe da equipa apresenta os membros da sua equipa e faz uma breve explicação do trabalho. Os requerentes devem ser lembrados de que:
+
+* É importante identificar pessoas de interesse antes da equipe do PDLA chegar à aldeia.
+* É importante que as famílias resolvam disputas antes da demarcação começar. Os requerentes que conheciam disputas de fronteira são encorajados a acordar um limite comum antes do processo de demarcação e registo.
+* É importante que todas as pessoas que tenham terra na área sejam informadas para estar presentes ou ter um membro da família ou ocupante certificar a terra em seu nome.
+* No entanto, somente o proprietário poderá colectar um certificado no final.
+* É importante que a certificação conjunta seja apresentada como uma opção. Isso permitirá o uso de certificados por mais tempo sem correcção/alteração.
+* É importante que o VLC e os membros da comunidade estejam prontos para ir aos campos e ajudar a resolver disputas.
+* Se houver disputas que sejam graves e que precisem ir para uma autoridade diferente, estas devem ser documentadas.
+* Se as disputas não puderem ser resolvidas, a demarcação ainda será documentada nos campos, mas as parcelas não serão certificadas nem os certificados entregues até serem resolvidos. 
+
+
+
+
+
+##### Preparação
+
+
+
+
 
 O trabalho de campo é feito de forma sistemática, parcela por parcela. Para isto é imprescindível a presença do:
 
-* requerente ou representante deste que conhece o historial, limites e dados pessoais do ocupante da terra.
-* líder comunitário ou seu representante
-* vizinhos da machamba/parcela para confirmação dos limites.
+* requerente ou representante deste que conhece o historial, limites e dados pessoais do ocupante da terra
+* líder comunitário ou seu representante, ou representante da associação comunitária
+* vizinhos da _machamba_/parcela para confirmação dos limites
 
 O trabalho do campo é realizado com base de mapas A3 com imagens satélites, formulários digitais inseridos no tablet acompanhado com GPS Garmin, caneta, lápis e borracha.
-
-Em linha com as melhores práticas internacionais nesta matéria, a identificação dos limites das parcelas será conduzida de acordo com os princípios 'Gerais Fronteiriços". Isto significa basicamente que não há necessidade para vigiar os limites, o que pode em vez disso ser identificado sempre que possível através de referências visíveis dos limites nas imagens de satélite impressas. Quando tal não for possível, um dispositivo GPS simples será usado para tirar pontos limítrofes.
 
 O ODK fornece um formulário no ecrã a ser preenchido para cada requerente que queira registar a sua parcela de terra, incluindo as coordenadas geográficas da terra \(quando necessário\), o que permite o seu parcelamento nos mapas topográficos. Estes formulários são então submetidos através da internet a um site de agregação personalizada, criado em um servidor que será instalado nos escritórios da ORAM e que junta todos os dados e cria os registos para o banco de dados de certificação.
 
@@ -78,7 +96,7 @@ Cada equipa vai ter:
 * Uma prancheta para manter os mapas
 * Um lápis de grafite suave \(pelo menos B3\) para marcar os limites nos mapas
 * Tablet carregado com o Formulário de ODK \(Formulário L: Registo de Parcelas C-DUAT\)
-* Um Garmin Glo conectado ao tablet para capturar pontos
+* Um Garmin Glo conectado ao tablet para capturar os pontos
 * Um livro de recibos pré-impressos, para completar e emitir aos requerentes, uma vez que eles demarcaram a parcela
 
 ## Produtos
