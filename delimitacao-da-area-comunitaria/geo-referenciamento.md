@@ -1,4 +1,4 @@
-# Geo-Referenciamento, Esboço e Memoria Descritiva
+### Geo-Referenciamento, Esboço e Memoria Descritiva
 
 O georeferenciamento é a fase de levantamento das coordenadas geográficas da comunidade local, com envolvimento das comunidades vizinhas para confirmarem os limites indicados.
 
@@ -6,21 +6,21 @@ Produzido pelo SPGC ou técnico cadastral do distrito. Normalmente a equipe de t
 
 Na abordagem CaVaTeCo, a informação já recolhido usando vários formulários de ODK fornece a informação necessário para desenvolver o esboço oficial. Por exemplo, Formulário A1 fornece muitos pontos de interesse; Formulário A2 inclui os coordenados dos limites do povoado; Formulário G captura os mapas participativos feitos pelas mulheres e pelos homens; Formulário H inclui a cartograma.
 
-## Objectivos
+#### Objectivos
 
 Confirmar os limites da comunidade local, e apurar a dimensão e/ou o tamanho real da área da comunidade local para ser lançado no Cadastro Nacional de Terras.
 
-## Equipa
+#### Equipa
 
 * Um técnico de SPGC com conhecimentos em topografia;
 * Comunidade local;
 * Comunidades vizinhas.
 
-## Preparação
+#### Preparação
 
 O técnico responsável da SPGC coordena com a liderança da comunidade local a ser delimitada, para indicação da data, hora e local de início de trabalho. A comunidade local deve informar a comunidade vizinha do inicio do trabalho para efeitos de confirmação dos mesmos limites. A informação deve ser continua às comunidades vizinhas, sempre que iniciar um novo limite.
 
-## Processo
+#### Processo
 
 * O facilitador confirma com o líder do povoado local o objectivo, o processo, a data, hora e local do inicio do trabalho.
 * Confirmar membros do povoado e dos povoados vizinhos.
@@ -37,13 +37,13 @@ O técnico responsável da SPGC coordena com a liderança da comunidade local a 
 * Preencher e enviar o Formulário D;
 * Preencher e assinar o Formulário 4 do Anexo Técnico.
 
-## Ferramentas
+#### Ferramentas
 
 * Imagens satélites
 * Informação gravado anteriormente usando Formulários de ODK, incluindo A1 Pontos de interesse; Formulário A2 Coordenados dos limites do povoado; Formulário G Mapas participativos feitos pelas mulheres e pelos homens; Formulário H Cartograma
 * Formulário D: Encontro da Diagnóstica Participativa
 
-## Produtos
+#### Produtos
 
 * Esboço da comunidade
 * Memoria descritiva
