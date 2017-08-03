@@ -27,24 +27,15 @@ Mas um objectivo igualmente importante neste processo é tentar garantir que nã
 
 O chefe da equipa apresenta os membros da sua equipa e faz uma breve explicação do trabalho. Os requerentes devem ser lembrados de que:
 
-* É importante identificar pessoas de interesse antes da equipe do PDLA chegar à aldeia.
-* É importante que as famílias resolvam disputas antes da demarcação começar. Os requerentes que conheciam disputas de fronteira são encorajados a acordar um limite comum antes do processo de demarcação e registo.
-* É importante que todas as pessoas que tenham terra na área sejam informadas para estar presentes ou ter um membro da família ou ocupante certificar a terra em seu nome.
-* No entanto, somente o proprietário poderá colectar um certificado no final.
-* É importante que a certificação conjunta seja apresentada como uma opção. Isso permitirá o uso de certificados por mais tempo sem correcção/alteração.
-* É importante que o VLC e os membros da comunidade estejam prontos para ir aos campos e ajudar a resolver disputas.
-* Se houver disputas que sejam graves e que precisem ir para uma autoridade diferente, estas devem ser documentadas.
-* Se as disputas não puderem ser resolvidas, a demarcação ainda será documentada nos campos, mas as parcelas não serão certificadas nem os certificados entregues até serem resolvidos. 
-
-
-
-
+* É importante que as famílias resolvam disputas antes da delimitação começar. Os requerentes que conheciam disputas de limites são encorajados a acordar um limite comum antes do processo de delimitação e registo
+* É importante que todas as pessoas que tenham terra na área sejam informadas para estar presentes ou ter um membro da família ou ocupante certificar a terra em seu nome
+* No entanto, somente o proprietário poderá colectar um certificado no fim do processo
+* É importante que a co-titularidade seja apresentada como uma opção. Isso permitirá o uso de certificados por mais tempo sem correcção/alteração
+* É importante que os membros da comunidade estejam prontos para ir as _machambas _e ajudar a resolver disputas
+* Se houver disputas que sejam graves e que precisem ir para uma autoridade diferente, estas devem ser documentadas
+* Se as disputas não puderem ser resolvidas, a delimitação ainda será feito no campo, mas as parcelas não serão certificadas nem os certificados entregues até estas disputas serem resolvidas
 
 ##### Preparação
-
-
-
-
 
 O trabalho de campo é feito de forma sistemática, parcela por parcela. Para isto é imprescindível a presença do:
 
