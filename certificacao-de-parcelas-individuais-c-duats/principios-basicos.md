@@ -1,4 +1,4 @@
-### Princípios básicos
+### Princípios Básicos
 
 A formalização dos direitos individuais informais e a sua administração eficiente providenciará a confiança de que os direitos de terras serão fáceis de identificar e verificar, serão protegidos pelo Estado e, estarão seguros de acções ilegais. A formalização destes direitos é importante por duas razões fundamentais:
 

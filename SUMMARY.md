@@ -32,7 +32,7 @@
 * [Plano de Uso de Terra](plano-de-uso-de-terra.md)
   * [Formulários ODK](plano-de-uso-de-terra/formularios-odk.md)
 * [Certificação de Parcelas Individuais \(C-DUATs\)](certificacao-de-parcelas-individuais-c-duats.md)
-  * [Princípios básicos](certificacao-de-parcelas-individuais-c-duats/principios-basicos.md)
+  * [Princípios Básicos](certificacao-de-parcelas-individuais-c-duats/principios-basicos.md)
   * [Produção de Grelha e Mapas](certificacao-de-parcelas-individuais-c-duats/producao-de-grelha-e-mapas.md)
   * [Campanha de Sensibilização](certificacao-de-parcelas-individuais-c-duats/campanha-de-sensibilizacao.md)
   * [Registo dos Titulares](certificacao-de-parcelas-individuais-c-duats/registo-dos-titulares.md)
