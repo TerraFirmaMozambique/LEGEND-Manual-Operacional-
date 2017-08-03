@@ -6,6 +6,11 @@ Esta é a última fase do processo de delimitação comunitária e, é feita nos
 
 O principal objectivo da fase é a emissão da certidão oficiosa de delimitação comunitária, para posterior actualização no Cadastro Nacional de Terras.
 
+#### Passos
+
+* x
+* x
+
 #### Equipa
 
 * 1 Técnico Topografo e/ou cartógrafo dos SPGC.

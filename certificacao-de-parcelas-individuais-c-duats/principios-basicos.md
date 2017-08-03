@@ -14,3 +14,7 @@ A regularização dos direitos individuais, basea-se nos seguintes princípios o
 
 A alocação/formalização de terras para os agricultores individuais e agregados familiares é conduzida de forma transparente e consensual e que existem oportunidades adequadas para objecções e correcções antes que os processos cheguem ao ponto de registo.
 
+O processo de parcelamento e emissao de certificados pelas associacao segue a Lei 19/1997 de 1 de Outobro. Conforme o Artigo 15, a comprovacao do direito de uso e aproveitamento da terra pode ser feita mediante "prova testemunhal apresentatda por membros, homens e mulheres, das comunidades locais". 
+
+
+
