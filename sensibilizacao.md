@@ -2,6 +2,16 @@
 
 Conforme estipulado pela Anexo Técnico, o processo de delimitação comunitária deve, por lei, ser precedido de uma série de consultas comunitárias na qual a informação em relação à terra, floresta e legislação ambiental é transmitida e a comunidade têm a oportunidade de compreender melhor as implicações de delimitar as suas terras e as actividades e os passos principais que isso implicará.
 
+#### Objectivos
+
+Promover a consciencialização das comunidades, investidores e tomadores de decisão \(homens, mulheres, grupos vulneráveis\) sobre os assuntos da terra;
+
+* Dar voz a todos aos usuários em particular às comunidades, criando a consciência sobre a necessidade do exercício do DUAT; 
+* Fornecer informações sobre a Lei de Terras e outras afins, os procedimentos, os direitos das populações bem como as suas responsabilidades, para promover registo da terra;
+* Estabelecer uma presença visível do projecto em todos os níveis, especialmente ao nível dos decisores políticos.
+
+
+
 A natureza e os resultados destes compromissos devem ser apresentados às autoridades cadastrais como parte do pedido de certificação do processo de delimitação.
 
 O primeiro encontro faz-se ao nível da comunidade.  Seguido de encontros a menor escala, ao nível mais detalhado do povoado.  Quer dizer que a demora esta ligada com o número de povoadas na comunidade, menor numero menos tempo e maior numero mais tempo. Os encontros a seguir envolvem trabalho mais detalhado ao nível de cada povoado. Quer dizer que normalmente uma comunidade com muitos povoados leva mais tempo do que uma comunidade com poucos povoados.
