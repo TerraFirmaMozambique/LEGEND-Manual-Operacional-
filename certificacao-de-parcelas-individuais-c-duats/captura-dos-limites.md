@@ -4,9 +4,10 @@
 
 A identificação dos limites refere-se a um processo de marcação num mapa da localização dos limites de cada área para o qual alguém deseja reivindicar um DUAT.
 
-Existem maneiras diferentes de fazer a identificação destes limites. Os limites de DUATs cedidos pelo Estado aos terceiros tem que ser identificados através de processo legal de **demarcarão**, em que é necessário a utilização de equipamento de GPS por um agrimensor ajuramentado, acompanhado de demarcação física dos limites, colocando marcadores. Mas os DUATs adquiridos por ocupação podem ser identificados usando um processo alternativo, menos exigente, conhecido como **delimitação**.  
+Existem maneiras diferentes de fazer a identificação destes limites. Os limites de DUATs cedidos pelo Estado aos terceiros tem que ser identificados através de processo legal de **demarcarão**, em que é necessário a utilização de equipamento de GPS por um agrimensor ajuramentado, acompanhado de demarcação física dos limites, colocando marcadores.  
+ Mas os DUATs adquiridos por ocupação podem ser identificados usando um processo alternativo, menos exigente, conhecido como **delimitação**.
 
-Para o processo de certificação local no âmbito de CaVaTeCo, podemos usar o processo de delimitação, em que: 
+Para o processo de certificação local no âmbito de CaVaTeCo, podemos usar o processo de delimitação, em que:
 
 * o uso do GPS é limitado
 * não fica necessário o envolvimento dum agrimensor
@@ -15,9 +16,9 @@ Para o processo de certificação local no âmbito de CaVaTeCo, podemos usar o p
 
 ## Objectivo
 
-O principal objectivo da delimitação é, é claro, identificar os limites das parcelas de cada requerente ou família. Mas um objectivo igualmente importante neste processo é tentar garantir que não haja disputas sobre onde os limites estão entre parcelas vizinhas ou para resolver essas disputas através do processo de demarcação.
+O principal objectivo da delimitação é, é claro, identificar os limites das parcelas de cada requerente ou família. Isto é feito nos mapas A3, para que depois os limites podem ser digitalizados dentro do SIG.  
 
-Por esse motivo, é importante que o agrimensor da comunidade trabalhe não apenas com o requerente, mas também o faz na presença de seus vizinhos. Se alguém do VLC também é capaz de acompanhar o agrimensor da comunidade, isso pode ajudar a resolver quaisquer disputas existentes.
+Mas um objectivo igualmente importante neste processo é tentar garantir que não haja disputas sobre onde os limites ficam entre parcelas vizinhas, ou para resolver essas disputas através do processo de delimitação. Por esse motivo, é importante que os membros da equipa e representantes da comunidade trabalhem não apenas com o requerente, mas também na presença dos seus vizinhos. 
 
 ## Processo
 
