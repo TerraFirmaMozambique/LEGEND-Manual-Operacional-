@@ -2,20 +2,22 @@
 
 #### Objectivo
 
-Registar todos os requerentes da comunidade que desejem certidões para suas parcelas
+Registar todos os requerentes da comunidade que desejam certificados para suas parcelas
 
 #### Processo
 
-O processo de formalização começa com o registo das pessoas que desejem certidões para suas parcelas. Este processo de registo dos titulares é mais uma oportunidade muito importante de enfatizar os direitos das mulheres. A família tem varias opções:
+O processo de formalização começa com o registo das pessoas que desejam certificados para suas parcelas. 
 
-* cada parcela podia ter um\(a\) único\(a\) titular \(seja homem ou mulher\), ou podia ter 2 ou mais co-titulares \(por exemplo um casal, ou irmãos, ou pães e filha ou filhos\)
-* uma família com 2 ou mais parcelas podia registar cada parcela em nome de pessoas diferentes, por exemplo uma parcela em nome da mulher e outra em nome de homen
+Este processo de registo dos titulares é uma oportunidade importante para enfatizar os direitos das mulheres. A família tem varias opções:
 
-Os passos do processo sao:
+* cada parcela pode ter um\(a\) único\(a\) titular \(seja homem ou mulher\), ou pode ter 2 ou mais co-titulares \(por exemplo um casal, ou irmãos, ou pais e filha ou filhos\)
+* uma família com 2 ou mais parcelas pode registar cada parcela em nome de pessoas diferentes, por exemplo uma parcela em nome da mulher e outra em nome de homem
 
-1. **Planificação geral**: A associação e o técnico confirmam o local e os dias de processo de registo dos titulares. O local deve ser numa area publica, com livre acesso para todos membros da comunidade, sem nenhuma ligacao a qualquer instituicao que podia criar desconforte or barreiras para participacao de qualque pessoa \(p.e. nao pode ser feito numa igresa ou no local de encontro dum partido politico\). Normalmente tem que ser um periodo de pelo menos 3 ou 4 dias, para garantir que todos requerentes tenham uma oportunidade de registar. Caso o registo esta sendo feito numa comunidade grande, sera possivel montar mais do que um lugar de registo para trabalho em parallelo.
+Os passos do processo são:
 
-2. **Sensibilização: **A associação asegura que todos membros da populacao da comunidade tenhem informacao sobre o processo de registo de pessoas, incluindo o objectivo, os datas e local de registo, e os requerimentos \(em particular, cada requerente seja titular ou singular ou co-titular\) tem que trazer a sua identificacao\). A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade. O processo podia incluir por exemplo disseminação da informação e palestras nas escolas, igresas e mesquitas, mercados, no radio comunitario, nos encontros da resolucao dos conflitos e outros  oportunidades publicas.
+1. **Planificação geral**: A associação e o técnico confirmam o local e os dias de processo de registo dos titulares. O local deve ser numa área publica, com livre acesso para todos membros da comunidade, sem nenhuma ligação a qualquer instituição que pode criar desconforto ou barreiras para participação de qualquer pessoa \(p.e. não pode ser feito numa igreja ou no local de encontro dum partido político\). Normalmente tem que ser um período de pelo menos 3 ou 4 dias, para garantir que todos requerentes tenham uma oportunidade de se registar. Caso o registo esteja a ser feito numa comunidade grande, será possível montar mais do que um lugar de registo para trabalho em paralelo.
+
+2. **Sensibilização: **A associação assegura que todos membros da população da comunidade tenham informação sobre o processo de registo de pessoas, incluindo o objectivo, as datas e o local de registo, e os requisitos \(em particular, cada requerente seja titular ou singular ou co-titular, tem que trazer a sua identificação\). A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar as opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade. O processo pode incluir por exemplo disseminação da informação e palestras nas escolas, igrejas e mesquitas, mercados, no rádio comunitário, nos encontros de resolução dos conflitos e outras oportunidades publicas.
 
 3. **Preparação pela equipa:** Antes de inicio do processo, confirme:
 
