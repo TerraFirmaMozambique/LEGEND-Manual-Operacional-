@@ -16,9 +16,9 @@ Para o processo de certificação local no âmbito de CaVaTeCo, podemos usar o p
 
 ## Objectivo
 
-O principal objectivo da delimitação é, é claro, identificar os limites das parcelas de cada requerente ou família. Isto é feito nos mapas A3, para que depois os limites podem ser digitalizados dentro do SIG.  
+O principal objectivo da delimitação é, é claro, identificar os limites das parcelas de cada requerente ou família. Isto é feito nos mapas A3, para que depois os limites podem ser digitalizados dentro do SIG.
 
-Mas um objectivo igualmente importante neste processo é tentar garantir que não haja disputas sobre onde os limites ficam entre parcelas vizinhas, ou para resolver essas disputas através do processo de delimitação. Por esse motivo, é importante que os membros da equipa e representantes da comunidade trabalhem não apenas com o requerente, mas também na presença dos seus vizinhos. 
+Mas um objectivo igualmente importante neste processo é tentar garantir que não haja disputas sobre onde os limites ficam entre parcelas vizinhas, ou para resolver essas disputas através do processo de delimitação. Por esse motivo, é importante que os membros da equipa e representantes da comunidade trabalhem não apenas com o requerente, mas também na presença dos seus vizinhos.
 
 ## Processo
 
@@ -71,9 +71,15 @@ Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos m
 
 ## Ferramentas
 
-* Tablet com Formulário L: Registo de Parcelas C-DUATs
-* Mapas de imagens satélites da comunidade, escala 1:3,000
-* Livro de recibos
+Cada equipa vai ter:
+
+* Um jogo de mapas 'H', no tamanho A3, mostrando imagens na escala de 1: 3,000, abrangendo toda a área do bloco cadastral
+* Um mapa, no tamanho A3, que oferece a Visão Geral do bloco, mostrando onde cada um dos mapas de 'H' se encaixa dentro da grelha geral de mapas para o bloco
+* Uma prancheta para manter os mapas
+* Um lápis de grafite suave \(pelo menos B3\) para marcar os limites nos mapas
+* Tablet carregado com o Formulário de ODK \(Formulário L: Registo de Parcelas C-DUAT\)
+* Um Garmin Glo conectado ao tablet para capturar pontos
+* Um livro de recibos pré-impressos, para completar e emitir aos requerentes, uma vez que eles demarcaram a parcela
 
 ## Produtos
 
