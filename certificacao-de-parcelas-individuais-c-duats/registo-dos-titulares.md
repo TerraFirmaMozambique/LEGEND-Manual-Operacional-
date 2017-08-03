@@ -27,7 +27,9 @@ Os passos do processo sao:
 
 4. **No dia do registo**:
 
-4.1 No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
+   1. No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
+
+   2. 
 
 4.2 Para cada requerente:
 
