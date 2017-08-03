@@ -23,6 +23,10 @@ Os passos do processo são:
 
 
 
+
+
+
+
 1. **Preparação pela equipa:** Antes de inicio do processo, confirme:
 
    1. _membros_: Os membros da equipa normalmente incluem um membro da associação, com ajuda dum motivador \(que podia supervisar 4 ou 5 lugares de registro se for necessario\). Tambem e conselhavel a participacao dum lider comunitario \(p.e. regulo da 3a escalao, chefe do povoado ou chefe da zona\) para mostrar que a lideranca esta envolvido no processo.
