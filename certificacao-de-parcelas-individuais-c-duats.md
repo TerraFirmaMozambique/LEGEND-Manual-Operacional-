@@ -22,13 +22,14 @@ A metodologia para a delimitação das áreas individuais e familiares segue as 
 
 #### Etapas de delimitação de terras individuais e familiares
 
-1. Registro dos titulares
-2. Delimitação dos povoados
-3. Produção de mapas dos povoados
+1. Produção de mapas dos povoado
+2. Campanha de sensibilizacao
+3. Registro dos titulares
 4. Captura dos limites das parcelas familiares
-5. Produção de mapas e listas de requerentes para publicação \(edital\) em cada povoado
+5. Produção de mapas e listas de requerentes para publicação \(edital\) 
 6. Período para Confirmação, Objeções e Correções
-7. Certificação
+7. Produção de mapas e listas 
+8. Certificação
 
 
 
