@@ -1,10 +1,10 @@
-# Terceira reunião comunitária: aprovação dos estatutos
+### Terceira reunião comunitária: aprovação dos estatutos
 
-## Objectivos
+#### Objectivos
 
 Reunião de duração de um dia ao nível da comunidade organizada, até duas semanas após a reunião anterior, como a Assembleia Constituente para aprovar oficialmente os membros e os estatutos da associação .
 
-## Introdução da reunião
+#### Introdução da reunião
 
 Realizar a Assembleia-Constituinte: nesta secção o motivador modera a realização da Assembleia-Constituinte da associação baseando-se nos seguintes pontos:
 
@@ -12,7 +12,7 @@ Realizar a Assembleia-Constituinte: nesta secção o motivador modera a realiza�
 * Eleição dos órgãos sociais;
 * Elaboração da acta da Assembleia constitutiva.
 
-## Seguimento 
+#### Seguimento
 
 * Reserva de nome com a assinatura dos membros fundadores no registo e notariado;
 * Submeter o requerimento ao Posto Administrativo da constituição da associação;
@@ -21,7 +21,7 @@ Realizar a Assembleia-Constituinte: nesta secção o motivador modera a realiza�
 * Solicitar a publicação no Boletim da República;
 * Fazer o registo comercial na conservatória.
 
-## Conclusão
+#### Conclusão
 
 * Preencher o Formulario XXX
 * Agradece os participantes por seu engajamento.
