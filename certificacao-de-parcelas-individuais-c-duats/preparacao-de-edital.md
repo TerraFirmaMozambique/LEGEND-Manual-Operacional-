@@ -1,8 +1,6 @@
-### Produção de mapas e listas de requerentes para publicação \(edital\)
+### Produção de Edital
 
 #### Objectivo
-
-
 
 #### Processo
 

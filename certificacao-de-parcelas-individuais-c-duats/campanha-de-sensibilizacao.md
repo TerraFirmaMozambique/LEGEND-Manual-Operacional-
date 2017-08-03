@@ -1,4 +1,4 @@
-### Campanha de sensibilização e divulgação de calendário de actividades
+### Campanha de Sensibilização e Divulgação de Calendário de Actividades
 
 #### **Objectivo:**
 

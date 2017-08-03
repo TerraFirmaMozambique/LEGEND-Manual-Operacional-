@@ -1,4 +1,4 @@
-### Identificação dos limites das parcelas familiares
+### Identificação dos Limites das Parcelas Familiares
 
 #### Natureza de demarcação vs. delimitação
 
@@ -62,13 +62,11 @@ Existem dois casos em que a equipa deve caminhar ao redor da parcela com o reque
 * Onde os limites não são claramente visíveis no mapa
 * Onde a parcela se estende para outra folha do mapa de serie 'H' que não está disponível para a equipa
 
-O Formulário ODK tem a opção de capturar esses pontos de limites quando for necessário. Onde a tomada de pontos do GPS fica necessária, a equipa pode usar o Formulário para marcar os pontos dos limites. 
+O Formulário ODK tem a opção de capturar esses pontos de limites quando for necessário. Onde a tomada de pontos do GPS fica necessária, a equipa pode usar o Formulário para marcar os pontos dos limites.
 
 Também é importante marcar os limites no mapa \(aproximadamente\) numa maneira diferente dos limites "normais", de modo que a equipa de escritório saiba ir e procurar os pontos no arquivo de dados. Esses limites não claros devem ser marcados com uma linha tracejada \[- - - - - - - - -\] em vez de uma linha solida \[\_\_\_\_\_\_\_\_\_\].
 
-
-
-Usando o ODK e, na presença do titular/responsável da parcela ou seu representante, é preenchido o formulário digital, onde é recolhido informação do titular e da parcela. 
+Usando o ODK e, na presença do titular/responsável da parcela ou seu representante, é preenchido o formulário digital, onde é recolhido informação do titular e da parcela.
 
 Caso um membro duma família não estiver registado na lista dos titulares, pode-se inscrever. Esta passo é a ultima oportunidade nesta ronda para alguém se registar como titular ou co-titular.
 
@@ -98,21 +96,15 @@ Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos m
 
 * Os limites comuns, onde não há disputa, são marcados com \[\_\_\_\_\_\_\_\_\_\_\_\] linhas solidas
 * Limites pouco claros são marcados com \[- - - - - - - - -\] linhas tracejadas
-* Os limites sob disputa são marcados com \[\ / \ / \ / \ / \\] linhas 'ziguezague'
+* Os limites sob disputa são marcados com \[ /  /  /  / \\] linhas 'ziguezague'
 * Nenhuma delimitação será feita se não houver testemunhas: o requerente deve encontrar uma testemunha primeiro
 * • Os pacotes em áreas de conflito não são demarcados, mas as pessoas têm a opção de demarcar a área que está fora desses.
 * • Os pacotes em áreas de recursos compartilhados são demarcados, mas as pessoas devem ser informadas sobre a possível decisão de não certificar essas áreas.
 * • Se houver uma estrada no meio de um pacote, o campo não deve ser demarcado como um pacote. As estradas devem ser um limite divisor entre duas parcelas separadas.
 * • Onde os campos se estendem através de duas ou mais HH Map Sheets:
 *  Demarque os limites de todas as folhas de mapa HH se estiverem disponíveis e escreva o número do pacote no recibo dentro do pacote em cada um dos Planos.
-* - Se uma folha de mapa HH não estiver disponível, use o Formulário ODK para marcar os pontos de referência do limite que cai na folha faltando.
+* * Se uma folha de mapa HH não estiver disponível, use o Formulário ODK para marcar os pontos de referência do limite que cai na folha faltando.
 *  Desenhe os limites até a borda das folhas de mapa HH \(não pare na linha de borda azul\).
-
-
-
-
-
-
 
 ## Conclusão
 
