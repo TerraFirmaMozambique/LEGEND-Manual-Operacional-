@@ -31,7 +31,7 @@ O chefe da equipa apresenta os membros da sua equipa e faz uma breve explicaçã
 * É importante que todas as pessoas que tenham terra na área sejam informadas para estar presentes ou ter um membro da família ou ocupante certificar a terra em seu nome
 * No entanto, somente o proprietário poderá colectar um certificado no fim do processo
 * É importante que a co-titularidade seja apresentada como uma opção. Isso permitirá o uso de certificados por mais tempo sem correcção/alteração
-* É importante que os membros da comunidade estejam prontos para ir as _machambas _e ajudar a resolver disputas
+* É importante que os membros da comunidade estejam prontos para ir as \_machambas \_e ajudar a resolver disputas
 * Se houver disputas que sejam graves e que precisem ir para uma autoridade diferente, estas devem ser documentadas
 * Se as disputas não puderem ser resolvidas, a delimitação ainda será feito no campo, mas as parcelas não serão certificadas nem os certificados entregues até estas disputas serem resolvidas
 
@@ -45,11 +45,32 @@ O trabalho de campo é feito de forma sistemática, parcela por parcela. Para is
 
 O trabalho do campo é realizado com base de mapas A3 com imagens satélites, formulários digitais inseridos no tablet acompanhado com GPS Garmin, caneta, lápis e borracha.
 
-O ODK fornece um formulário no ecrã a ser preenchido para cada requerente que queira registar a sua parcela de terra, incluindo as coordenadas geográficas da terra \(quando necessário\), o que permite o seu parcelamento nos mapas topográficos. Estes formulários são então submetidos através da internet a um site de agregação personalizada, criado em um servidor que será instalado nos escritórios da ORAM e que junta todos os dados e cria os registos para o banco de dados de certificação.
+#### Marcação dos limites nos mapas
 
-Usando o ODK e, na presença do titular/responsável da parcela ou seu representante, é preenchido o formulário digital, onde é recolhido informação do titular e da parcela. Para tal é solicitado o documento de identificação do titular, caso este não tenha será recomendado ao titular a requerer a identificação \(declaração\) emitida pelas autoridades locais, para o efeito. Será solicitada uma fotocópia de documento de identificação para posterior formação do processo nos SPGCs.
+A equipa se reúnem com o requerente na parcela de terra e juntos tentam identificar os limites utilizando a imagem do mapa. Em muitos casos, com a ajuda da equipa, as pessoas poderão ver onde a sua terra cai sobre as imagens.
 
-Caso um membro duma família não estiver registado na lista dos titulares, pode-se enscrever. Esta passo é a ultima oportunidade nesta ronda para alguém se registrar como titular ou co-titular.
+O enumerador marcará o contorno do limite no mapa com uma linha **SOLIDO**, usando um lápis de grafite suave. Nota que:
+
+* Se cometerem um erro, isso pode ser apagado
+* Os lápis macios \(pelo menos 3B\) devem ser usados porque são mais fáceis de apagar e são menos propensos a rasgar o papel
+* A espessura da linha não importa, porque a equipa no escritório também pode ver a imagem digital original da imagem de satélite na tela do computador
+
+#### Limites que não sejam identificáveis através dos mapas
+
+Existem dois casos em que a equipa deve caminhar ao redor da parcela com o requerente e levar uma série de pontos usando o GPS, para que estes possam ser usados ​​pela equipa no escritório para digitalizar os limites:
+
+* Onde os limites não são claramente visíveis no mapa
+* Onde a parcela se estende para outra folha do mapa de serie 'H' que não está disponível para a equipa
+
+O Formulário ODK tem a opção de capturar esses pontos de limites quando for necessário. Onde a tomada de pontos do GPS fica necessária, a equipa pode usar o Formulário para marcar os pontos dos limites. 
+
+Também é importante marcar os limites no mapa \(aproximadamente\) numa maneira diferente dos limites "normais", de modo que a equipa de escritório saiba ir e procurar os pontos no arquivo de dados. Esses limites não claros devem ser marcados com uma linha tracejada \[- - - - - - - - -\] em vez de uma linha solida \[\_\_\_\_\_\_\_\_\_\].
+
+
+
+Usando o ODK e, na presença do titular/responsável da parcela ou seu representante, é preenchido o formulário digital, onde é recolhido informação do titular e da parcela. 
+
+Caso um membro duma família não estiver registado na lista dos titulares, pode-se inscrever. Esta passo é a ultima oportunidade nesta ronda para alguém se registar como titular ou co-titular.
 
 > Picture here
 >
@@ -72,6 +93,26 @@ Depois a captura dos limites e a confirmação pelo o requerente e os vizinhos, 
 O numero de recibo serve também como o Número Único de Parcela \(NUP\), que vai ligar o georeferenciamento com os dados pessoais e detalhes da pessoa ou agregado que está a reclamar tal parcela.
 
 Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos marcados no campo para o escritório do projecto, onde os limites das parcelas serão digitalizados e ligados aos dados dos formulários ODK. O próprio banco de dados será criado usando o PostgreSQL PostGIS e o software QGIS.
+
+#### Resumo das regras na delimitação de limites
+
+* Os limites comuns, onde não há disputa, são marcados com \[\_\_\_\_\_\_\_\_\_\_\_\] linhas solidas
+* Limites pouco claros são marcados com \[- - - - - - - - -\] linhas tracejadas
+* Os limites sob disputa são marcados com \[\ / \ / \ / \ / \\] linhas 'ziguezague'
+* Nenhuma delimitação será feita se não houver testemunhas: o requerente deve encontrar uma testemunha primeiro
+* • Os pacotes em áreas de conflito não são demarcados, mas as pessoas têm a opção de demarcar a área que está fora desses.
+* • Os pacotes em áreas de recursos compartilhados são demarcados, mas as pessoas devem ser informadas sobre a possível decisão de não certificar essas áreas.
+* • Se houver uma estrada no meio de um pacote, o campo não deve ser demarcado como um pacote. As estradas devem ser um limite divisor entre duas parcelas separadas.
+* • Onde os campos se estendem através de duas ou mais HH Map Sheets:
+*  Demarque os limites de todas as folhas de mapa HH se estiverem disponíveis e escreva o número do pacote no recibo dentro do pacote em cada um dos Planos.
+* - Se uma folha de mapa HH não estiver disponível, use o Formulário ODK para marcar os pontos de referência do limite que cai na folha faltando.
+*  Desenhe os limites até a borda das folhas de mapa HH \(não pare na linha de borda azul\).
+
+
+
+
+
+
 
 ## Conclusão
 
