@@ -41,9 +41,9 @@ Os passos do processo sao:
 
       5. Explicar os proximos passos para delimitacao das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.
 
-   Repete o processo com o proximo requerente. Normalente o processo de registo leve mais ou menos 15 minutos por pessoa.
+      iii. Repete o processo com o proximo requerente. Normalente o processo de registo leve mais ou menos 10 a 15 minutos por pessoa.
 
-4.3 No fim de dia, envie os formularios preenchidos ao servidor. A equipa técnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulario L: Registo das Parcelas.
+   3. No fim de dia, envie os formularios preenchidos ao servidor. A equipa técnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulario L: Registo das Parcelas.
 
 #### Ferramentas
 
