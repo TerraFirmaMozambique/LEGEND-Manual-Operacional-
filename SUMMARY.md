@@ -36,7 +36,7 @@
   * [Produção de Grelha e Mapas](certificacao-de-parcelas-individuais-c-duats/producao-de-grelha-e-mapas.md)
   * [Campanha de Sensibilização](certificacao-de-parcelas-individuais-c-duats/campanha-de-sensibilizacao.md)
   * [Registo dos Titulares](certificacao-de-parcelas-individuais-c-duats/registo-dos-titulares.md)
-  * [Captura dos Limites das Parcelas Familiares](certificacao-de-parcelas-individuais-c-duats/captura-dos-limites.md)
+  * [Captura dos Limites](certificacao-de-parcelas-individuais-c-duats/captura-dos-limites.md)
   * [Preparação de Edital](certificacao-de-parcelas-individuais-c-duats/preparacao-de-edital.md)
   * [Confirmação, Objecções e Correcções](certificacao-de-parcelas-individuais-c-duats/confirmacao-objeccoes-e-correccoes.md)
   * [Produção do Mapa e Lista Final de parcelas](certificacao-de-parcelas-individuais-c-duats/certificacao.md)

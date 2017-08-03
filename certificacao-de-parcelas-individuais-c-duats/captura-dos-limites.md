@@ -1,4 +1,4 @@
-### Identificação dos limites das parcelas familiares
+### Captura dos limites das parcelas familiares
 
 #### Natureza de demarcação vs. delimitação
 
@@ -49,9 +49,10 @@ O trabalho do campo é realizado com base de mapas A3 com imagens satélites, fo
 
 O formulário é organizado para colectar dados na seguinte ordem:
 
-1.  Dados sobre a parcela de terra e como foi adquirido
+1. Dados sobre a parcela de terra e como foi adquirido
 2. Dados sobre o\(s\) titular\(es\) dos direitos
-3. Dados sobre a\(s\) testemunha   \(s\)
+3. Dados sobre a\(s\) testemunha
+   \(s\)
 4. As coordenadas geográficas do centro da parcela \(obrigatório\)
 5. As coordenadas geográficas dos limites do pacote \(opcional\)
 
