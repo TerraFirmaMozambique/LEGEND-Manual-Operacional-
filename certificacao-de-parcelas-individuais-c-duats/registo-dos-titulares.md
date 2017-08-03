@@ -29,21 +29,19 @@ Os passos do processo sao:
 
    1. No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
 
-   2. 
+   2. Para cada requerente:
 
-4.2 Para cada requerente:
+      1. Confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao.
 
-1. Confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao.
+      2. Confirmar se o requerente quer fazer registro como titular unico ou em co-titularidade. Um requerente \(ou dois ou mais co-titulares\) que tem mais de que uma parcela tem que registar como Titular somente uma vez, e vai poder delimitar mais do que uma parcela
 
-2. Confirmar se o requerente quer fazer registro como titular unico ou em co-titularidade. Um requerente \(ou dois ou mais co-titulares\) que tem mais de que uma parcela tem que registar como Titular somente uma vez, e vai poder delimitar mais do que uma parcela.
+      3. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\).
 
-3. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\).
+      4. Depois de preencher, rever e confirmar os dados com o requerente
 
-4. Depois de preencher, rever e confirmar os dados com o requerente.
+      5. Explicar os proximos passos para delimitacao das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.
 
-5. Explicar os proximos passos para delimitacao das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.
-
-6. Repete o processo com o proximo requerente. Normalente o processo de registo leve mais ou menos 15 minutos por pessoa.
+   Repete o processo com o proximo requerente. Normalente o processo de registo leve mais ou menos 15 minutos por pessoa.
 
 4.3 No fim de dia, envie os formularios preenchidos ao servidor. A equipa técnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulario L: Registo das Parcelas.
 
