@@ -32,7 +32,7 @@ Dentro do processo de transformação, portanto, existem diferentes pilares e ac
 Dentro de cada uma destas componentes, a plataforma CaVaTeCo aproveita várias ferramentas e opções legais e técnicas para realizar actividades e abordar problemas e desafios. Mas a abordagem CaVaTeCo também agrega valor ao quadro jurídico existente sobre a delimitação de terras da comunidade e das familias, das seguintes maneiras:
 
 * Estabelece **associações registadas como entidades legais** para representar a comunidade, fornecendo-lhes uma capacidade institucional para lidar com o mundo exterior;
-* Proporciona ferramentas que ajudam a **identificar e mapear claramente áreas importantes nas terras da comunidade sobre as quais exercerão controle de gestão** \(áreas de conservação, áreas sagradas, firebreaks, etc.\), bem como ferramentas para títulos de DUATs e planos de uso de recursos naturais para orientar a tomada de decisões ao longo do tempo;
+* Proporciona ferramentas que ajudam a **identificar e mapear claramente áreas importantes nas terras da comunidade sobre as quais exercerão controle de gestão** \(áreas de conservação, áreas sagradas, _firebreaks_, etc.\), bem como ferramentas para títulos de DUATs e planos de uso de recursos naturais para orientar a tomada de decisões ao longo do tempo;
 * **Identifica, desmembra e formaliza claramente a posse e direitos adquiridos nas explorações terras familiares**, através de um processo legítimo que permite que a comunidade em geral confirme esses direitos.
 * Faz de forma **mais eficiente a um custo menor por delimitação da comunidade e por parcela demarcada,** em comparação com as abordagens padrão.
 

@@ -1,6 +1,4 @@
-# O Plataforma Tecnologico da CaVaTeCo
+### O Plataforma Tecnológico da CaVaTeCo
 
 ![](/assets/CaVaTeCo.png)
-
-
 

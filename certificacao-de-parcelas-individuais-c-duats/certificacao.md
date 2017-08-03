@@ -1,8 +1,6 @@
-# Certificação de DUATs
+### Produção do Mapa e Lista Final de Parcelas
 
-## Produção do mapa e lista final de parcelas {#produção-do-mapa-e-lista-final-de-parcelas}
-
-### Objectivo
+#### Objectivo
 
 Esta fase envolve a inserção dos dados no SiGIT, verificando sua conformidade técnica e legal, realizando os processos burocráticos necessários para obter as aprovações necessárias para a emissão dos títulos RDUAT.
 
@@ -10,7 +8,7 @@ De acordo com a inclusão proposta de uma abordagem mais matizada para a documen
 
 Os mapas finais e as listas de parcelas podem ser produzidos mostrando as áreas que foram certificadas pela associação comunitária e as áreas para as quais os títulos RDUAT ou certificados C-DUAT foram emitidos.
 
-### Processo
+#### Processo
 
 xx
 
@@ -18,31 +16,15 @@ Após a exibição dos dados em edital, os técnicos pela gestão da base de dad
 
 A equipe técnica produz um mapa geral das parcelas, e a lista final de parcelas e titulares com base nos dados recebidos a partir da fase de Confirmação, Objecções e Correcções. A equipa técnica também imprime os certificados para cada titular. Os mapas, listas e certificados serão fornecidos a associação comunitária em formato digital e físico.
 
-### Ferramentas
+#### Ferramentas
 
 Formulário XXX+
 
-### Produtos
+#### Produtos
 
 xx
 
-## Emissão de certificados pela a associação {#emissão-de-certificados-pela-a-associação}
+### 
 
-### Objectivo
 
-xx
-
-### Processo
-
-xx
-
-A associação emite certificados para titulares das áreas familiares delimitadas. A emissão dos certificados deve ocorrer dentro de um período de 60 dias após a apresentação dos pedidos.
-
-### Ferramentas
-
-Formulário XXX
-
-### Produtos
-
-xx
 

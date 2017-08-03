@@ -1,6 +1,6 @@
-# Segunda reunião comunitária: consolidação da associação
+### Segunda reunião comunitária: consolidação da associação
 
-## Objectivos
+#### Objectivos
 
 Uma reunião de duração de um dia ao nível da comunidade, até um mês após as reuniões anteriores para:
 
@@ -8,7 +8,7 @@ Uma reunião de duração de um dia ao nível da comunidade, até um mês após 
 * Reconfirmação dos membros fundadores da associação;
 * Identificação da acção administrativa necessária para realizar a filiação dos membros para associação na base da Lei 2/2006.
 
-## Introdução da reunião
+#### Introdução da reunião
 
 De seguida modera a discussão das propostas de estatutos esboçados pelos povoados e harmonizá-las em um único corpo de estatutos da associação da comunidade.
 
@@ -20,13 +20,13 @@ Refere ao exemplo de estatutos duma associação de terra comunitária, e as cla
 
 Compilar as ideias num documento, seguindo o esboço do exemplo
 
-## Seguimento
+#### Seguimento
 
 Identificação da accão administrativa necessária para realizar a filiação dos membros;
 
-No fim desta actividade o motivador marca um TPC para que a comunidade termine a harmonização dos estatutos . 
+No fim desta actividade o motivador marca um TPC para que a comunidade termine a harmonização dos estatutos .
 
-## Conclusão
+#### Conclusão
 
 * Preencher o Formulario C
 * Agradece os participantes por seu engajamento.

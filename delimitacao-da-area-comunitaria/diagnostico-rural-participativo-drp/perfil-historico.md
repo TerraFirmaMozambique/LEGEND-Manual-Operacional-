@@ -1,4 +1,4 @@
-# Perfil Histórico da Comunidade
+### Perfil Histórico da Comunidade
 
 Conhecimento do perfil histórico e os acontecimentos mais importantes que tiveram impacto na vida sócio, económico, politico e cultural da comunidade.
 
@@ -8,7 +8,7 @@ Objectivos
 
 Identificar e descrever os principais acontecimentos que marcaram a comunidades, com vista a ter um conhecimento geral da historia da comunidade desde a sua fundação.
 
-## Processo
+#### Processo
 
 1. Explicar o objectivo do trabalho;
 
@@ -22,7 +22,7 @@ Identificar e descrever os principais acontecimentos que marcaram a comunidades,
 
 6. Envio de Formulários D e C, e A1 caso for necessário.
 
-## Ferramentas
+#### Ferramentas
 
 •    Formulário D: Encontro da Diagnóstica Participativa
 
@@ -30,7 +30,7 @@ Identificar e descrever os principais acontecimentos que marcaram a comunidades,
 
 •    Formulário A1: Pontos de interesse \(opcional\)
 
-## Produtos
+#### Produtos
 
 •    Perfil histórico da comunidade;
 

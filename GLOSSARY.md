@@ -42,5 +42,9 @@ Open Data Kit: software que permite a colecção, aggregação e analise de dado
 
 Cadeia de Valor de Terra Comunitária
 
+## C-DUAT
+
+Registo e certificação de Direito de Uso e Aproveitamento de Terra, emitidas pelas associações comunitárias.
+
 
 

@@ -1,6 +1,6 @@
-# Período para Confirmação, Objecções e Correcções
+### Período para Confirmação, Objecções e Correcções
 
-## Objectivo
+#### Objectivo
 
 O objectivo do mapa e da lista das parcelas é de permitir que todos os membros da comunidade consultem e identifiquem as áreas no mapa durante o que é referido como uma Fase de Confirmação, Objeções e Correções; ela serve como uma salvaguarda importante contra o "agarrão da terra" local. Também permite que os próprios requerentes certifiquem que os dados contidos em relação às suas próprias parcelas foram registados correctamente.
 
@@ -19,13 +19,13 @@ No final deste período, a equipe de campo visita e recolhe os dados alterados n
 
 As disputas que surgiram podem ser resolvidas pela liderança tradicional local, pelos representantes da associação ou pela administração local.
 
-## Processo
+#### Processo
 
 xx
 
 Durante o período do edital, os membros das comunidades, com base no código cadastral da parcela e munidos do respectivo documento de identificação verificam, no mapa, se a localização e os limites da o parcela estão conforme, assim como a informação contida na tabela. Poderão confirmar ou reclamar para se corrigir, havendo, para isso, durante a exposição do edital, um caderno de registo. Neste período não será permitido a inscrição de novos titulares ou co-titulares.
 
-> ![](https://cavateco.gitbooks.io/cavateco-legend-manual/content/v/530ecdb2c486b274615ac19828fbbb1dba277b30/assets/edital_consult1.jpg)
+> ![](/assets/edital_consult1.jpg)
 >
 > Membros das comunidades consultando edital
 
@@ -55,14 +55,14 @@ A etapa de Confirmação, Objecções e Correcções inclui a exibição do mapa
 
 Preencher o Formulário XXX
 
-## Ferramentas
+#### Ferramentas
 
 * Tablet com Formulário M: Objecções e Correcções
 * Mapa A1 das parcelas \(imagens satélites\)
 * Lista de requerentes
 * Livro de recibos
 
-## Productos
+#### Produtos
 
 * Mapa A1 das parcelas e lista de requerentes com Objecções e Correcções
 

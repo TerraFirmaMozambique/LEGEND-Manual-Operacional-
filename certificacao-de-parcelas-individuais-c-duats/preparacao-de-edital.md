@@ -1,10 +1,8 @@
-# Produção de mapas e listas de requerentes para publicação \(edital\)
+### Produção de Edital
 
-## Objectivo
+#### Objectivo
 
-
-
-## Processo
+#### Processo
 
 xx
 
@@ -22,11 +20,11 @@ No\(s\) local \(is\) de fixação do edital, deve estar permanentemente 2 técni
 
 Antes e durante a publicação do edital, é necessário anunciar à comunidade das datas e locais de afixação de edital.
 
-## Ferramentas
+#### Ferramentas
 
 Preencher o Formulário XXX
 
-## Produtos
+#### Produtos
 
 xx
 
