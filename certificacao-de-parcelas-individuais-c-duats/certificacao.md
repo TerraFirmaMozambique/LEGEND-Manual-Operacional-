@@ -6,7 +6,7 @@ Produção de mapas finais e das listas das parcelas que mostrem as áreas nas q
 
 #### Considerações legais
 
-De acordo com a inclusão proposta de uma abordagem mais matizada para a documentação dos direitos \(emitindo os Certificados de Prova de Aquisição do DUAT em nome das associações comunitárias\), os dados podem ser desagregados para aqueles que desejam tramitar os seus pedidos para um título de RDUAT e, aqueles que se contentam em possuir um certificado emitido pela associação local, ou seja, um **C-DUAT**. 
+De acordo com a inclusão proposta de uma abordagem mais matizada para a documentação dos direitos \(emitindo os Certificados de Prova de Aquisição do DUAT em nome das associações comunitárias\), os dados podem ser desagregados para aqueles que desejam tramitar os seus pedidos para um título de RDUAT e, aqueles que se contentam em possuir um certificado emitido pela associação local, ou seja, um **C-DUAT**.
 
 Todos os dados dos DUAT identificados podem ser introduzidos no SiGIT, mas somente aqueles que solicitaram um título de RDUAT serão processados para autorização.
 
@@ -21,21 +21,20 @@ As reclamações podem incluir:
 * Erros nos dados pessoais 
 * Discordância nos limites das parcelas
 
-Com base nos dados recebidos a partir da fase de Objecções e Correcções, a equipe técnica produz um mapa geral das parcelas, e a lista final de parcelas e titulares. 
+Com base nos dados recebidos a partir da fase de Objecções e Correcções, a equipe técnica produz um mapa geral das parcelas, e a lista final de parcelas e titulares.
 
-Importa ressaltar que nesta fase não serão feitas novas submissões apenas a correcção da informação previamente recebida.
+Importa ressaltar que nesta fase não serão feitas novas submissões, apenas a correcção da informação previamente recebida.
 
 #### Ferramentas
 
-* Formulário XXX+
-* Mapa A1 COC
-* Listas dos requerentes
+* Formulário M Objecções e Corecções
+* Mapa A1 OC com limites alterados
+* Listas dos requerentes com corecções
 
 #### Produtos
 
-xx
-
-### 
+* Mapa final das parcelas certificadas
+* Lista final dos requerentes
 
 
 
