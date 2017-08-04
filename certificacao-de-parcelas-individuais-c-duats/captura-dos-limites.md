@@ -17,7 +17,7 @@ Para o processo de certificação local no âmbito de CaVaTeCo, podemos usar o p
 
 #### Objectivo
 
-O principal objectivo da delimitação é, é claro, identificar os limites das parcelas de cada requerente ou família. Isto é feito nos mapas A3, para que depois os limites podem ser digitalizados dentro do SIG.
+O **principal objectivo** da delimitação é, é claro, identificar os limites das parcelas de cada requerente ou família. Isto é feito nos mapas A3, para que depois os limites podem ser digitalizados dentro do SIG.
 
 Mas um objectivo igualmente importante neste processo é tentar garantir que não haja disputas sobre onde os limites ficam entre parcelas vizinhas, ou para resolver essas disputas através do processo de delimitação. Por esse motivo, é importante que os membros da equipa e representantes da comunidade trabalhem não apenas com o requerente, mas também na presença dos seus vizinhos.
 
