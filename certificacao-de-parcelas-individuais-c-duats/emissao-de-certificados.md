@@ -16,7 +16,9 @@ A associação emite certificados para titulares das áreas familiares delimitad
 
 4. A emissão dos certificados pela a associação deve ocorrer dentro de um período de 60 dias após a apresentação dos pedidos.
 
-_**inserir imagem dum certificado**_
+> ![](/assets/certificado.PNG)
+>
+> Imagem dum certificado
 
 #### Ferramentas
 
