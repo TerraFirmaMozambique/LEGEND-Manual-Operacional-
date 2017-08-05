@@ -22,11 +22,12 @@ A associação emite certificados para titulares das áreas familiares delimitad
 
 #### Ferramentas
 
-Base de dados com informacao de Formulário K: Registo de Pessoas C-DUATs e Formulário L: Registo de Parcelas C-DUATs
-
-Modelo de Certificados de DUAT
+* Base de dados com informacao de Formulário K: Registo de Pessoas C-DUATs e Formulário L: Registo de Parcelas C-DUATs
+* Modelo de Certificados de DUAT
 
 #### Produtos
 
-Certificado de DUAT para cada parcela
+* Certificado de DUAT para cada parcela
+
+
 
