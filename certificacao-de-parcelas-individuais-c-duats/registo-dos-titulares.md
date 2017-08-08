@@ -19,7 +19,7 @@ Os passos do processo são:
 
 2. **Sensibilização: **A associação assegura que todos membros da população da comunidade tenham informação sobre o processo de registo de pessoas, incluindo o objectivo, as datas e o local de registo, e os requisitos \(em particular, cada requerente seja titular ou singular ou co-titular, tem que trazer a sua identificação\). A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar as opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade. O processo pode incluir por exemplo disseminação da informação e palestras nas escolas, igrejas e mesquitas, mercados, nas rádios comunitárias, nos encontros de resolução dos conflitos e outros encontros públicos.
 
-1. **Preparação pela equipa:** Antes de inicio do processo, confirme:
+3. **Preparação pela equipa:** Antes de inicio do processo, confirme:
 
    1. _membros_: Os membros da equipa normalmente incluem um membro da associação, com ajuda dum motivador \(que podia supervisar 4 ou 5 lugares de registro se for necessário\). Também e aconselhável a participação dum líder comunitário \(p.e. regulo da 3a escalão, chefe do povoado ou chefe da zona\) para mostrar que a liderança esta envolvido no processo.
 
@@ -27,25 +27,24 @@ Os passos do processo são:
 
    3. _material: _ confirmar que o tablet esta carregado, e que tem a versão mais actualizada do Formulário K: Registo de Pessoas C-DUATs. Confirmar que o local de registo tem cadeiras e uma mesa se for possivel.
 
-2. **No dia do registo**:
+**No dia do registo**:
 
-   1. No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informação completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
+1. No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informação completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
 
-   2. Para cada requerente:
+Para cada requerente:
 
-      1. Confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O lider comunitaria ou outros testamunhas presentes pode confirmar. O requerente tambem tem que mostrar que tem o seu documento da identificacao.
+1. Confirmar que a pessoa e dono duma parcela dentro da comunidade e nao quer registar uma parcela emprestada. O líder comunitária ou outros testemunhas presentes pode confirmar. O requerente também tem que mostrar que tem o seu documento da identificação.
+2. Confirmar se o requerente quer fazer registo como titular único ou em co-titularidade. Um requerente \(ou dois ou mais co-titulares\) que tem mais de que uma parcela tem que registar como Titular somente uma vez, e vai poder delimitar mais do que uma parcela
+3. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\).
+4. Depois de preencher, rever e confirmar os dados com o requerente
+5. Explicar os próximos passos para delimitação das parcelas. Enfatizar que todos os co-titulares também tem que registar, e todos tem que estar presente no processo de delimitação das parcelas, juntos com os documentos da identificação. Explicar os próximos passos para delimitação das parcelas. Enfatizar que todos os co-titulares também tem que registar, e todos tem que estar presente no processo de delimitação das parcelas, juntos com os documentos da identificação.
+6. Repete o processo com o próximo requerente. Normalmente o processo de registo leve mais ou menos 10 a 15 minutos por pessoa
 
-      2. Confirmar se o requerente quer fazer registro como titular unico ou em co-titularidade. Um requerente \(ou dois ou mais co-titulares\) que tem mais de que uma parcela tem que registar como Titular somente uma vez, e vai poder delimitar mais do que uma parcela
+No fim de dia, envie os formulários preenchidos ao servidor. A equipa técnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulário L: Registo das Parcelas.
 
-      3. Preencher o "Formulário K: Registo de Pessoas C-DUATs". Normalmente comeca com um lider \(p.e. regulo, chefa da zona\).
 
-      4. Depois de preencher, rever e confirmar os dados com o requerente
 
-      5. Explicar os próximos passos para delimitação das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.Explicar os proximos passos para delimitação das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.
 
-      iii. Repete o processo com o proximo requerente. Normalente o processo de registo leve mais ou menos 10 a 15 minutos por pessoa.
-
-   3. No fim de dia, envie os formularios preenchidos ao servidor. A equipa técnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulario L: Registo das Parcelas.
 
 #### Ferramentas
 
