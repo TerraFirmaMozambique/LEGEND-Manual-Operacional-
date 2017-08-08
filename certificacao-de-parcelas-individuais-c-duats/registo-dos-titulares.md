@@ -19,17 +19,9 @@ Os passos do processo são:
 
 2. **Sensibilização: **A associação assegura que todos membros da população da comunidade tenham informação sobre o processo de registo de pessoas, incluindo o objectivo, as datas e o local de registo, e os requisitos \(em particular, cada requerente seja titular ou singular ou co-titular, tem que trazer a sua identificação\). A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar as opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade. O processo pode incluir por exemplo disseminação da informação e palestras nas escolas, igrejas e mesquitas, mercados, nas rádios comunitárias, nos encontros de resolução dos conflitos e outros encontros públicos.
 
-
-
-
-
-
-
-
-
 1. **Preparação pela equipa:** Antes de inicio do processo, confirme:
 
-   1. _membros_: Os membros da equipa normalmente incluem um membro da associação, com ajuda dum motivador \(que podia supervisar 4 ou 5 lugares de registro se for necessario\). Tambem e conselhavel a participacao dum lider comunitario \(p.e. regulo da 3a escalao, chefe do povoado ou chefe da zona\) para mostrar que a lideranca esta envolvido no processo.
+   1. _membros_: Os membros da equipa normalmente incluem um membro da associação, com ajuda dum motivador \(que podia supervisar 4 ou 5 lugares de registro se for necessário\). Também e aconselhável a participação dum líder comunitário \(p.e. regulo da 3a escalão, chefe do povoado ou chefe da zona\) para mostrar que a liderança esta envolvido no processo.
 
    2. _capacidade_: os membros da equipa dominem uso do tablet e do Formulário K: Registo de Pessoas C-DUATs.
 
@@ -37,7 +29,7 @@ Os passos do processo são:
 
 2. **No dia do registo**:
 
-   1. No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informacao completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
+   1. No inicio de trabalho, normalmente ha varios membros da comunidade presentes, incluindo alguns que ainda nao tem informação completa. O representante da associação e a equipa técnica vão resumir o objectivo, o processo, e os requisitos \(tem que ser dono duma parcela dentro da comunidade, e tem que apresentar o seu documento da identificação\). Enfatizem tambem o direito da posse de terra pelas mulheres, e explicar opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade.
 
    2. Para cada requerente:
 
@@ -49,7 +41,7 @@ Os passos do processo são:
 
       4. Depois de preencher, rever e confirmar os dados com o requerente
 
-      5. Explicar os proximos passos para delimitacao das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.
+      5. Explicar os próximos passos para delimitação das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.Explicar os proximos passos para delimitação das parcelas. Enfatizar que todos os co-titulares tambem tem que registar, e todos tem que estar presente no processo de delimitacao das parcelas, juntos com os documentos da identifição.
 
       iii. Repete o processo com o proximo requerente. Normalente o processo de registo leve mais ou menos 10 a 15 minutos por pessoa.
 
