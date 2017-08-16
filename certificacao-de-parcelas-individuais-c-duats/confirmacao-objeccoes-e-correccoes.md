@@ -2,7 +2,7 @@
 
 #### Objectivo
 
-O objectivo da publicação do mapa e da lista das parcelas é de permitir que todos os membros da comunidade consultem e identifiquem as áreas no mapa durante o que é referido como uma Fase de Confirmação, Objeções e Correções; ela serve como uma salvaguarda importante contra o "agarrão da terra" local. Também permite que os próprios requerentes certifiquem que os dados contidos em relação às suas próprias parcelas foram registados correctamente.
+O objectivo da publicação do mapa e da lista das parcelas é de permitir que todos os membros da comunidade consultem e identifiquem as áreas no mapa durante o que é referido como uma Fase de Confirmação, Objecções e Correcções; ela serve como uma salvaguarda importante contra o "agarrão da terra" local. Também permite que os próprios requerentes certifiquem que os dados contidos em relação às suas próprias parcelas foram registados correctamente.
 
 #### Considerações legais
 
