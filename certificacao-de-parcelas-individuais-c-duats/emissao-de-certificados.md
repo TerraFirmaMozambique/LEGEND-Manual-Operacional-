@@ -1,4 +1,4 @@
-### Emissão de Certificados pela a Associação
+### Emissão de Certificados pela Associação
 
 #### Objectivo
 
