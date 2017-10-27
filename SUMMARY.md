@@ -1,7 +1,6 @@
 # Summary
 
 * [Introdução](README.md)
-  * [Conteudos](conteudos.md)
 * [Cadeia de Valor de Terra Comunitária \(CaVaTeCo\)](cadeia-de-valor-de-terra-comunitaria-cavateco.md)
   * [Conceito](cadeia-de-valor-de-terra-comunitaria-cavateco/conceito.md)
   * [Passos e etapas](cadeia-de-valor-de-terra-comunitaria-cavateco/passos-e-etapas.md)
