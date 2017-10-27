@@ -45,15 +45,11 @@ Fornecer um cronograma aproximado das actividades para a comunidade alvo.
 
 #### O trabalho de hoje
 
-Peça aos participantes para fornecer uma visão geral sobre as instituições comunitárias existentes, tais como o Comité de Gestão de Recursos Naturais, associações de produtores, e outros.
-
-Peça mais especificamente o funcionamento anterior e actual do G9 como um ponto de entrada para justificar uma forma de organização melhor e mais funcional da representação da comunidade; identificar os membros do G9 que estão presentes na reunião e convide-os para dar a sua conta em actividades passadas e presentes.
-
-Destacar a necessidade de esta instituição ser inclusivo, resultando em legitimidade com uma boa participação de diferentes grupos de interesse e diferentes povoações/bairros.
-
-Sublinhar a necessidade de ter uma única instituição para lidar com a terra e os recursos naturais utilização/gestão; também explicar que uma tal única instituição permitirá a outras associações, mas com objectivos diferentes, tais como associações de produtores ou cooperativas.
-
-Destacar a necessidade de ter uma instituição comunitária legalmente reconhecida; legalmente implica \(i\) de acordo com a lei e \(ii\) com personalidade jurídica.
+* [ ] Peça aos participantes para fornecer uma visão geral sobre as instituições comunitárias existentes, tais como o Comité de Gestão de Recursos Naturais, associações de produtores, e outros.
+* [ ] Peça mais especificamente o funcionamento anterior e actual do G9 como um ponto de entrada para justificar uma forma de organização melhor e mais funcional da representação da comunidade; identificar os membros do G9 que estão presentes na reunião e convide-os para dar a sua conta em actividades passadas e presentes.
+* [ ] Destacar a necessidade de esta instituição ser inclusivo, resultando em legitimidade com uma boa participação de diferentes grupos de interesse e diferentes povoações/bairros.
+* [ ] Sublinhar a necessidade de ter uma única instituição para lidar com a terra e os recursos naturais utilização/gestão; também explicar que uma tal única instituição permitirá a outras associações, mas com objectivos diferentes, tais como associações de produtores ou cooperativas.
+* [ ] Destacar a necessidade de ter uma instituição comunitária legalmente reconhecida; legalmente implica \(i\) de acordo com a lei e \(ii\) com personalidade jurídica.
 
 #### Vantagens de trabalhar em grupo/associação:
 
