@@ -61,10 +61,11 @@ A equipa então deve prosseguir na seguinte maneira:
 1. Abre o formulário quando começa o processo
 2. Preencher os dados sobre a parcela, o\(s\) titular\(es\) e a\(s\) testemunha\(s\)
 3. Gravar um ponto no centro da parcela, usando GPS
-4. Tentar identificar os limites no mapa e fazer a marcação com lápis
-5. Se não for possível identificar os limites através do mapa, caminhar os limites que não estão identificáveis e gravar os pontos, usando GPS
+4. Tentar identificar os limites no mapa e farzer a marcação com lápis usando linha solida \(\_\_\_\_\_\_\_\_\).
+5. Se não for possível identificar os limites através do mapa, caminhar os limites que não estão identificáveis e gravar os pontos, usando GPS. Fazer a marcação no mapa com lápis usando linha tracejada \(- - - - - - \).
 6. Preencher o recibo, tirar uma imagem do recibo e entregar o original ao requerente
 7. Fecha o formulário quando tudo esteja completado
+8. No escritorio, por cima dos limites
 
 #### Marcação dos limites nos mapas
 
