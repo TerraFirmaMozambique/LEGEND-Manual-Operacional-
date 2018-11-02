@@ -1,4 +1,4 @@
-# Manual Operacional de CaVaTeCo
+# Introdução
 
-![](/assets/TerraFirmaLogo2016.png)
+![](.gitbook/assets/terrafirmalogo2016.png)
 

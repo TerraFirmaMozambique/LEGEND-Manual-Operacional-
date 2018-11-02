@@ -1,6 +1,6 @@
-### Certificação de Parcelas Individuais \(C-DUATs\)
+# Certificação de Parcelas Individuais \(C-DUATs\)
 
-#### Uma nova abordagem...
+## Uma nova abordagem...
 
 A CaVaTeCo propõe uma abordagem diferente, como alternativa à titulação formal de DUATs através do cadastro nacional:
 
@@ -13,7 +13,7 @@ A CaVaTeCo propõe uma abordagem diferente, como alternativa à titulação form
 * ...o que coloca estas ferramentas nas mãos das instituições da comunidade local; e,
 * ...permite-lhes usá-los para emitir e manter registos localmente legítimos de propriedades de terra dentro de suas áreas \(na verdade esses direitos não são apenas localmente legítimos, mas também legais, já que muitas vezes correspondem a 10 anos de ocupação efectiva “de boa fé”\).
 
-#### Facilitação de formalização de direitos
+## Facilitação de formalização de direitos
 
 * A identificação das áreas individuais que merecem protecção especial \(viúvas, mulheres que são ‘cabeça da família’\)
 * Estabelecimento e formação das equipas comunitárias para implementar um programa de delimitação individual
@@ -21,7 +21,7 @@ A CaVaTeCo propõe uma abordagem diferente, como alternativa à titulação form
 
 A metodologia para a delimitação das áreas individuais e familiares segue as melhores práticas internacionais para os processos de regularização da posse de terra. Trata-se de uma série de tarefas-chave, conforme descrito nas secções a seguir.
 
-#### Etapas de delimitação de terras individuais e familiares
+## Etapas de delimitação de terras individuais e familiares
 
 1. Produção de Grelha e Mapas da Área 
 2. Campanha de Sensibilização
@@ -31,6 +31,4 @@ A metodologia para a delimitação das áreas individuais e familiares segue as 
 6. Período para Confirmação, Objecções e Correcções
 7. Produção de Mapas e Lista Final das Parcelas
 8. Emissão de Certificados pela Associação
-
-
 

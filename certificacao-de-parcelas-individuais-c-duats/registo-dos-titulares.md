@@ -1,10 +1,10 @@
-### Registo dos Titulares
+# Registo dos Titulares
 
-#### Objectivo
+## Objectivo
 
 Registar todos os requerentes da comunidade que desejam certificados para suas parcelas
 
-#### Processo
+## Processo
 
 O processo de formalização começa com o registo das pessoas que desejam certificados para suas parcelas.
 
@@ -16,16 +16,11 @@ Este processo de registo dos titulares é uma oportunidade importante para enfat
 Os passos do processo são:
 
 1. **Planificação geral**: A associação e o técnico confirmam o local e os dias de processo de registo dos titulares. O local deve ser numa área publica, com livre acesso para todos membros da comunidade, sem nenhuma ligação a qualquer instituição que pode criar desconforto ou barreiras para participação de qualquer pessoa \(p.e. não pode ser feito numa igreja ou no local de encontro dum partido político\). Normalmente tem que ser um período de pelo menos 3 ou 4 dias, para garantir que todos requerentes tenham uma oportunidade de se registar. Caso o registo esteja a ser feito numa comunidade grande, será possível montar mais do que um lugar de registo para trabalho em paralelo.
-
-2. **Sensibilização: **A associação assegura que todos membros da população da comunidade tenham informação sobre o processo de registo de pessoas, incluindo o objectivo, as datas e o local de registo, e os requisitos \(em particular, cada requerente seja titular ou singular ou co-titular, tem que trazer a sua identificação\). A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar as opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade. O processo pode incluir por exemplo disseminação da informação e palestras nas escolas, igrejas e mesquitas, mercados, nas rádios comunitárias, nos encontros de resolução dos conflitos e outros encontros públicos.
-
+2. **Sensibilização:** A associação assegura que todos membros da população da comunidade tenham informação sobre o processo de registo de pessoas, incluindo o objectivo, as datas e o local de registo, e os requisitos \(em particular, cada requerente seja titular ou singular ou co-titular, tem que trazer a sua identificação\). A associação e a equipa técnica vão enfatizar o direito da posse de terra pelas mulheres, e vão explicar as opções incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade. O processo pode incluir por exemplo disseminação da informação e palestras nas escolas, igrejas e mesquitas, mercados, nas rádios comunitárias, nos encontros de resolução dos conflitos e outros encontros públicos.
 3. **Preparação pela equipa:** Antes de inicio do processo, confirme:
-
    1. _membros_: Os membros da equipa normalmente incluem um membro da associação, com ajuda dum motivador \(que podia supervisar 4 ou 5 lugares de registo se for necessário\). Também e aconselhável a participação dum líder comunitário \(p.e. regulo da 3a escalão, chefe do povoado ou chefe da zona\) para mostrar que a liderança esta envolvido no processo.
-
    2. _capacidade_: os membros da equipa dominem uso do tablet e do Formulário K: Registo de Pessoas C-DUATs.
-
-   3. _material: _ confirmar que o tablet esta carregado, e que tem a versão mais actualizada do Formulário K: Registo de Pessoas C-DUATs. Confirmar que o local de registo tem cadeiras e uma mesa se for possível.
+   3. _material:_  confirmar que o tablet esta carregado, e que tem a versão mais actualizada do Formulário K: Registo de Pessoas C-DUATs. Confirmar que o local de registo tem cadeiras e uma mesa se for possível.
 
 **No dia do registo**:
 
@@ -42,11 +37,11 @@ Para cada requerente:
 
 No fim de dia, envie os formulários preenchidos ao servidor. A equipa técnica de SIG vai produzir a lista completa dos requerentes, e incluir dados dos requerentes no Formulário L: Registo das Parcelas.
 
-#### Ferramentas
+## Ferramentas
 
 Tablet com Formulário K: Registo de Pessoas C-DUATS
 
-#### Produtos
+## Produtos
 
 Lista dos requerentes
 

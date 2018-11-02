@@ -1,4 +1,6 @@
-### Conceito da Comunidade Local
+# Princípios básicos
+
+## Conceito da Comunidade Local
 
 Segundo a Lei de Terra, uma comunidade local pode ser um agrupamento de famílias e indivíduos, vivendo numa circunscrição territorial de nível de localidade ou inferior, que visa salvaguardar interesses comuns através da protecção de áreas habitacionais, áreas agrícolas, sejam cultivadas ou em pousio, florestas, sítios de importância cultural, pastagens, fontes de água e áreas de expansão.
 
@@ -12,7 +14,7 @@ Segundo o Anexo Técnico do Regulamento da Lei de Terras, a delimitação comuni
 4. Devolução e 
 5. Lançamento no Cadastro Nacional de Terras.
 
-### Formulários do Anexo Técnico, enumerados:
+## Formulários do Anexo Técnico, enumerados:
 
 1. Formulário 1: Informação e Divulgação
 2. Formulário 2: Aprovação do processo de delimitação da área da comunidade / área de ocupante de boa-fé

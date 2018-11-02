@@ -1,4 +1,4 @@
-### Passos e etapas de CaVaTeCo
+# Passos e etapas
 
-![](/assets/passos.png)
+![](../.gitbook/assets/passos.png)
 

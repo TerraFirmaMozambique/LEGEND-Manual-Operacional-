@@ -1,4 +1,4 @@
-### Princípios Básicos
+# Princípios Básicos
 
 A formalização dos direitos individuais informais e a sua administração eficiente providenciará a confiança de que os direitos de terras serão fáceis de identificar e verificar, serão protegidos pelo Estado e, estarão seguros de acções ilegais. A formalização destes direitos é importante por duas razões fundamentais:
 
@@ -14,7 +14,5 @@ A regularização dos direitos individuais, basea-se nos seguintes princípios o
 
 A alocação/formalização de terras para os agricultores individuais e agregados familiares é conduzida de forma transparente e consensual e que existem oportunidades adequadas para objecções e correcções antes que os processos cheguem ao ponto de registo.
 
-O processo de parcelamento e emissao de certificados pelas associacao segue a Lei 19/1997 de 1 de Outobro. Conforme o Artigo 15, a comprovacao do direito de uso e aproveitamento da terra pode ser feita mediante "prova testemunhal apresentatda por membros, homens e mulheres, das comunidades locais". 
-
-
+O processo de parcelamento e emissao de certificados pelas associacao segue a Lei 19/1997 de 1 de Outobro. Conforme o Artigo 15, a comprovacao do direito de uso e aproveitamento da terra pode ser feita mediante "prova testemunhal apresentatda por membros, homens e mulheres, das comunidades locais".
 

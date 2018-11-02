@@ -1,4 +1,6 @@
-### Criação de Associação Comunitária
+# Criação de Associação Comunitária
+
+## Criação de Associação Comunitária
 
 A abordagem CaVaTeCo incorpora o estabelecimento de um organismo representativo para a comunidade delimitada, baseado à Lei das Associações 02/2006. Estas associações serão responsáveis para a supervisão dos processos subsequentes de certificação comunitária e individual.
 
@@ -11,15 +13,15 @@ A fim de supervisionar o processo de formalização que irá resultar na emissã
 
 As atividades subsequentes incluirão a elaboração conjunta de estatutos adequados para a entidade, auxiliando os membros fundadores a reunir a documentação necessária e ajudar na recepção e processamento dos pedidos de reconhecimento formal. A equipe também irá garantir a publicação dos estatutos da associação da comunidade no Boletim da República.
 
-### Conceitos Básicos na criação duma Associação
+## Conceitos Básicos na criação duma Associação
 
-#### O que é uma associação?
+### O que é uma associação?
 
 * Um conjunto de pessoas que voluntariamente se agrupam para atingir um fim comum;
 * Uma organização que trabalha para a melhoria de condições de vida dos seus membros, resolvendo assim os seus problemas;
 * Uma organização formada por vários membros, na base do interesse colectivo e controlada pelos mesmos.
 
-#### Objectivo da criação de uma associação
+### Objectivo da criação de uma associação
 
 Em função dos problemas comuns, dos membros:
 
@@ -27,13 +29,13 @@ Em função dos problemas comuns, dos membros:
 * Se o problema for de falta de equipamento, então o objectivo pode ser compra e gestão em comum de equipamento…
 * Se o problema for de venda de produtos então o objectivo pode ser recolha e venda de produtos colectivamente
 
-#### Processo de criação de uma associação
+### Processo de criação de uma associação
 
 * Haver grupo de pessoas com mesmas necessidades, interessadas a promover actividades em conjunto;
 * Os seus interesses e motivação devem ser o mesmo para que possam contribuir \(todos em geral\), permitindo o alcance dos objectivos;
 * A decisão de criação de uma associação deve partir dos próprios beneficiários;
 
-#### Princípios Associativos
+### Princípios Associativos
 
 * Gestão democrática
 * Distribuição de resultados, em função da participação de cada associado
@@ -42,11 +44,11 @@ Em função dos problemas comuns, dos membros:
 * Entre ajuda entre as associações
 * Atenção pela comunidade
 
-### Qual é a estrutura duma Associação
+## Qual é a estrutura duma Associação
 
 \[diagrama\]
 
-#### Competências da Assembleia Geral
+### Competências da Assembleia Geral
 
 * Eleger os membros de conselho de direcção e do conselho fiscal; 
 * Definir o programa e as linhas gerais de actuação da Associação;
@@ -60,14 +62,14 @@ Em função dos problemas comuns, dos membros:
 * Deliberar sobre aplicações dos resultados líquidos da actividade anual da Associação;
 * Deliberar sobre as questões relacionadas com a organização, reorganização, funcionamento, cisão e dissolução da Associação.
 
-#### Competências do Presidente da mesa da Assembleia Geral
+### Competências do Presidente da mesa da Assembleia Geral
 
 * Convocar as reuniões da Assembleia Geral indicando a ordem dos trabalhos;
 * Presidir as reuniões da Assembleia Geral;
 * Investir os membros nos cargos para que forem eleitos, assinando conjuntamente com eles os respectivos autos e posse, que mandará lavrar;
 * Assinar as actas das sessões da Assembleia Geral.
 
-#### Competências do Conselho de Direcção
+### Competências do Conselho de Direcção
 
 * Compete ao Conselho de Direcção: 
 * Administração e gestão das actividades da Associação com os mais amplos poderes, de modo a garantir a realização dos seus objectivos;
@@ -82,20 +84,20 @@ Em função dos problemas comuns, dos membros:
 * Passar a convocação da Assembleia Geral a respectiva ordem de trabalho;
 * Executar as demais competências prescritas na lei e nos presentes estatutos, e responder pelo cumprimento das obrigações da Assembleia
 
-#### Competências dos Secretários
+### Competências dos Secretários
 
 * Lavrar as actas das sessões da Assembleia Geral;
 * Redigir a correspondência presente à Assembleia Geral;
 * Colaborar com o presidente da Mesa da Assembleia Geral
 
-#### Competências do Tesoureiro
+### Competências do Tesoureiro
 
 Compete ao Tesoureiro:
 
 * A movimentação dos fundos da Associação, arrecadando as receitas, satisfazendo as despesas autorizadas pelo Conselho de Direcção, assinando todos os recibos de quotas e de quaisquer receitas da Associação;
 * Fiscalização, cobrança e depósito de dinheiros em estabelecimentos de crédito que tenham sido designados pelo Conselho de Direcção, sendo uma das assinaturas a do presidente ou seu mandatário legalmente constituído.
 
-#### Competências do Conselho Fiscal
+### Competências do Conselho Fiscal
 
 Compete ao Conselho Fiscal:
 
@@ -107,11 +109,11 @@ Compete ao Conselho Fiscal:
 * Analisar as queixas dos membros da Associação, relativamente as decisões e actuações do Conselho de Direcção;
 * Apresentar o relatório de prestação de contas do seu trabalho nas sessões da Assembleia Geral.
 
-### Comparação das Leis das Associações
+## Comparação das Leis das Associações
 
-#### Lei 2/2006 das associações agropecuárias
+### Lei 2/2006 das associações agropecuárias
 
-##### Vantagens desta Lei:
+#### Vantagens desta Lei:
 
 * Estabelecimento fácil e rápido:
   * Membros precisam qualquer documentação \(incluindo BI ou outro documento válido emitido por entidade pública, ou pela abonação de duas testemunhas, ou ainda pelo reconhecimento pessoal da autoridade administrativa
@@ -124,14 +126,14 @@ Compete ao Conselho Fiscal:
 * A associação legalmente constituída pode beneficiar-se de incentivos
 * Mais flexível em termos de tramitação de processo até ao despacho
 
-##### Desvantagens desta Lei:
+#### Desvantagens desta Lei:
 
 * Os objectivos são limitados ao apoio ou fomento da exploração agrícola, agropecuária ou florestal ou outras com elas directamente relacionadas ou conexas
 * Não incluem outras actividades lucrativas
 
-#### Lei 8/1991 das associações
+### Lei 8/1991 das associações
 
-##### Vantagens desta Lei:
+#### Vantagens desta Lei:
 
 * Os objectivos são abrangentes, admitindo varias actividades
 * Representar os seus interesses perante a Lei
@@ -140,13 +142,11 @@ Compete ao Conselho Fiscal:
 * Celebrar contratos legalmente válidos 
 * A associação legalmente constituída pode beneficiar-se de incentivos
 
-##### Desvantagens desta Lei:
+#### Desvantagens desta Lei:
 
 * Membros tem que ter BIs e Registo Criminal, tratado ao nível provincial
 * Registo criminal deve ser tramitado em Maputo
 * Reconhecido ao nível de provincial, qual processo pode ser moroso 
 * Tem que enviar anualmente ao Ministério das Finanças e ao Tribunal Administrativo o relatório e as contas do exercício findo
 * O processo de tramitação e moroso, pode levar mais de 9 meses para o despacho
-
-
 

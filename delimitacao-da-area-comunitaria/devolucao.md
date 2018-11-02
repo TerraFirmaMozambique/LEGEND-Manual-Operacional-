@@ -1,20 +1,20 @@
-### Devolução
+# Devolução
 
 Esta fase é caracterizada pela prestação à comunidade local e comunidades vizinhas as informações recolhidas nas fases anteriores. A equipe de trabalho deve detalhadamente explicar os passos percorridos durante o processo de delimitação comunitária até a fase de devolução. Caso a comunidade não concorde com alguma informação, deve apresentar a equipe de trabalho para proceder com as devidas correcções. Após o encontro, os participantes assinem o respectivo formulário.
 
-#### Objectivos
+## Objectivos
 
 O principal objectivo desta fase é a confirmação e/ou validação por parte da comunidade local e comunidades vizinhas das informações recolhidas nas fases anteriores, incluindo os limites da comunidade vizinha.
 
-#### Equipa
+## Equipa
 
 2 Técnicos \(1 motivador e 1 técnico com conhecimento em topografia\)
 
-#### Preparação
+## Preparação
 
 A equipe de trabalho coordena com a liderança da comunidade local do encontro. Também, é necessário a presença do Governo Distrital \(Administrador ou seu representante e SDAE\).
 
-#### Processo
+## Processo
 
 1. Marcação do encontro com o governo local \(Administração do distrito e SDAE ou SDPI\), indicando a data, local e hora;
 2. Informação ao líder da comunidade local da data e hora;
@@ -27,16 +27,14 @@ A equipe de trabalho coordena com a liderança da comunidade local do encontro. 
 9. Preencher e assinar o Formulário 5 do Anexo Técnico;
 10. Encerramento do encontro pelo \(a\) administrador \(a\) ou seu \(sua\) representante.
 
-#### Ferramentas
+## Ferramentas
 
 * Formulário D: Encontro da Diagnóstica Participativa
 * Formulário I: Devolução / Assinantes do Formulário 5
 
-#### Produtos
+## Produtos
 
 * Imagens \(fotos\) dos participantes no encontro
 * Coordenadas do local de realização do encontro
 * Formulário 5 do Anexo Técnico
-
-
 
