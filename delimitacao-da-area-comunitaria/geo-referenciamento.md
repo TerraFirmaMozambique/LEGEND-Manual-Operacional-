@@ -1,10 +1,10 @@
 # Geo-Referenciamento
 
-O georeferenciamento é a fase de levantamento das coordenadas geográficas da comunidade local, com envolvimento das comunidades vizinhas para confirmarem os limites indicados.
+O georeferenciamento é a fase de levantamento das coordenadas geográficas da comunidade local, com envolvimento das comunidades vizinhas para confirmarem os limites indicados. Geo-referenciamento da comunidade é tornar suas coordenadas geográficas conhecidas num sistema de referência. A documentação é produzida pelos SPGC ou pelo técnico cadastral do distrito. 
 
-Produzido pelo SPGC ou técnico cadastral do distrito. Normalmente a equipe de trabalho deve percorrer os limites do povoado, gravando os pontos necessários para elaboração de esboço numa maneira que corresponde a realidade no terreno. Infelizmente existem muitos exemplos de esboços com somente 5 ou 6 coordenadas geográficos, que não tomem conta das realidades topográficos e geográficos. Esses esboços excluem algumas áreas da comunidade, e incluem outras áreas que ficam fora dos limites actuais da comunidade.
+Normalmente a equipe de trabalho deve percorrer os limites do povoado, gravando os pontos necessários para elaboração de esboço numa maneira que corresponde a realidade no terreno. Infelizmente existem muitos exemplos de esboços com somente 5 ou 6 coordenadas geográficos, que não tomem conta das realidades topográficos e geográficos. Esses esboços excluem algumas áreas da comunidade, e incluem outras áreas que ficam fora dos limites actuais da comunidade.
 
-Na abordagem CaVaTeCo, a informação já recolhido usando vários formulários de ODK fornece a informação necessário para desenvolver o esboço oficial. Por exemplo, Formulário A1 fornece muitos pontos de interesse; Formulário A2 inclui os coordenados dos limites do povoado; Formulário G captura os mapas participativos feitos pelas mulheres e pelos homens; Formulário H inclui a cartograma.
+Na abordagem CaVaTeCo, a informação já recolhida usando vários formulários de ODK fornece a informação necessária para desenvolver o esboço oficial. Por exemplo, Formulário A1 fornece muitos pontos de interesse; Formulário A2 inclui as coordenadas dos limites do povoado; Formulário G captura os mapas participativos feitos pelas mulheres e pelos homens; Formulário H inclui a cartograma.
 
 ## Objectivos
 
