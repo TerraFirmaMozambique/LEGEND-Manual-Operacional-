@@ -10,7 +10,7 @@ Segundo o Anexo Técnico do Regulamento da Lei de Terras, a delimitação comuni
 
 1. Informação e Divulgação; 
 2. Diagnóstico Rural Participativo \(DRP\); 
-3. Esboço e Sua Memória/Georeferenciamento; 
+3. Esboço e Sua Memória / Geo-referenciamento; 
 4. Devolução e 
 5. Lançamento no Cadastro Nacional de Terras.
 
