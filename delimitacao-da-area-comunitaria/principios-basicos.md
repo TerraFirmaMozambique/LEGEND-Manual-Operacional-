@@ -6,6 +6,8 @@ Segundo a Lei de Terra, uma comunidade local pode ser um agrupamento de família
 
 A delimitação comunitária é um processo participativo que envolve as comunidades locais, comunidades vizinhas, assim como os técnicos com experiência na área. O processo é conduzido pela associação da terra comunitária, facilitado pelos motivadores comunitários.
 
+Delimitação é quando duas ou mais partes \(por exemplo, comunidades vizinhas ou famílias vizinhas\) concordam em um limite comum. Demarcação é quando o limite é acordado e fisicamente estabelecido por meio de levantamento e marcação pelo uso de pedras, pilares, ou outros meios físicos.
+
 Segundo o Anexo Técnico do Regulamento da Lei de Terras, a delimitação comunitária compreende 5 fases, cada uma de qual tem um formulário oficial, nomeadamente:
 
 1. Informação e Divulgação; 
