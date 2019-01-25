@@ -16,7 +16,7 @@
   * [Segunda reunião comunitária](criacao-de-associacao-comunitaria/segunda-reuniao-comunitaria.md)
   * [Terceira reunião comunitária](criacao-de-associacao-comunitaria/terceira-reuniao-comunitaria.md)
   * [Formulários ODK](criacao-de-associacao-comunitaria/formularios-odk.md)
-* [Delimitação da área comunitária](delimitacao-da-area-comunitaria/README.md)
+* [Delimitação da Área Comunitária](delimitacao-da-area-comunitaria/README.md)
   * [Princípios básicos](delimitacao-da-area-comunitaria/principios-basicos.md)
   * [Sensibilização](delimitacao-da-area-comunitaria/sensibilizacao.md)
   * [Diagnóstico Rural Participativo \(DRP\)](delimitacao-da-area-comunitaria/diagnostico-rural-participativo-drp/README.md)
