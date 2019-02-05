@@ -4,7 +4,7 @@ Os mapas participativos são elaborados pelos membros da comunidade com a facili
 
 ## Objectivos
 
-Apresentar os perspectivos comunitários dos aspectos físicos da comunidade.
+Apresentar as perspectivas comunitárias dos aspectos físicos da comunidade.
 
 ## Processo
 
@@ -12,23 +12,23 @@ Apresentar os perspectivos comunitários dos aspectos físicos da comunidade.
 2. Apresentar os instrumentos de trabalho \(mapas, e explicar a metodologia. Os mapas numa primeira fase podem ser feitos no chão, ou num papel A1
 3. Explicar a metodologia e orientar o trabalho;
 
-Os mapas numa primeira fase podem ser feitos no chão, caso contrário num papel A1. Encoraje os membros da comunidade de fazer os desenhos
+Os mapas numa primeira fase podem ser feitos no chão, caso contrário num papel A1. Encorajar os membros da comunidade a fazerem os desenhos
 
 * Dividir os partipantes: formar um grupo de homens, um grupo de mulheres, um grupo de jovens.
-* Cada grupo desenhe os mapas:
-* Começamos por representar os pontos cardeais
-* Representar características geográficas e infra-estruturas \(estradas principais, linhas férreas, etc.\) para facilitar a representação de outros elementosRepresentar os limites do povoado com os povoados vizinhos e os nomes das comunidades ou povoados vizinhos
-* Representar outras características geográficas e recursos naturais, ,
-* Representar infraestruturas sociais e económicos, como estradas, escolas, postos de saúde, lojas, mercados, empresas, igrejas e mesquitas, fontes de agua, e outras
-* Representar áreas dos usos principais, como habitação, machambas, florestas etc.
-* Representar outros pontos de interesse
-* Juntar os grupos num grupo grande para fazer comparação dos resultados. Identificem aspectos comuns e aspectos diferentes
+* Cada grupo deve desenhar os mapas:
+* Começar por representar os pontos cardeais;
+* Representar características geográficas e infra-estruturas \(estradas principais, linhas férreas, etc.\) para facilitar a representação de outros elementos, Representar os limites do povoado com os povoados vizinhos e os nomes das comunidades ou povoados vizinhos;
+* Representar outras características geográficas e recursos naturais; 
+* Representar infraestruturas sociais e económicos, como estradas, escolas, postos de saúde, lojas, mercados, empresas, igrejas e mesquitas, fontes de agua, e outras;
+* Representar áreas dos usos principais, como habitação, machambas, florestas etc;
+* Representar outros pontos de interesse;
+* Juntar os grupos num grupo grande para fazer comparação dos resultados. Identificar aspectos comuns e aspectos diferentes;
 * Concordar o objectivo, processo, local e hora da próxima actividade
 * Preencher e enviar o Formulário F
 
 ## Ferramentas
 
-* Formulário D: Encontro da Diagnóstica Participativa
+* Formulário D: Encontro de Diagnóstico Participativo
 * Formulário G: Mapas Participativos
 * Formulário A1: Pontos de Interesse \(opcional\)
 * Mapas de imagens satélites
@@ -36,6 +36,6 @@ Os mapas numa primeira fase podem ser feitos no chão, caso contrário num papel
 ## Produtos
 
 * Mapas participativos \(deixados com a comunidade\)
-* Imagens \(fotos\) dos Mapas Participativos submetidos através do ODK
+* Imagens \(fotos\) dos Mapas Participativos submetidas através do ODK
 * Coordenadas do local de realização do encontro
 

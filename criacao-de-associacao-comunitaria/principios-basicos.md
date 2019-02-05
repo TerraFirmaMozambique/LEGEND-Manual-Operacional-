@@ -14,7 +14,7 @@ Uma associação comunitária de terra precisa de ser estabelecida com base na l
 
 ## Criação da associação como um exercício de fortalecer as capacidades locais
 
-Considerando que o objectivo final é ter uma associação que funciona e continua funcionar na ausência de ajuda externa, o processo de criar capacidade e empoderar a comunidade é tão importante quanto o seu resultado. É preciso evitar a replicação da experiência malsucedida com o G9.
+Considerando que o objectivo final é ter uma associação que funciona e continue a funcionar na ausência de ajuda externa, o processo de criar capacidade e empoderar a comunidade é tão importante quanto o seu resultado. É preciso evitar a replicação da experiência malsucedida com o G9.
 
 ## Processo conduzido pela comunidade
 

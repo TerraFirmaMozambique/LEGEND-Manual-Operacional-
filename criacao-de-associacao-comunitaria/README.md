@@ -25,7 +25,7 @@ As atividades subsequentes incluirão a elaboração conjunta de estatutos adequ
 
 Em função dos problemas comuns, dos membros:
 
-* Se o problema e falta de terra, então o objectivo da associação pode ser recuperar as terras…
+* Se o problema for falta de terra, então o objectivo da associação pode ser recuperar as terras…
 * Se o problema for de falta de equipamento, então o objectivo pode ser compra e gestão em comum de equipamento…
 * Se o problema for de venda de produtos então o objectivo pode ser recolha e venda de produtos colectivamente
 
@@ -71,7 +71,8 @@ Em função dos problemas comuns, dos membros:
 
 ### Competências do Conselho de Direcção
 
-* Compete ao Conselho de Direcção: 
+Compete ao Conselho de Direcção: 
+
 * Administração e gestão das actividades da Associação com os mais amplos poderes, de modo a garantir a realização dos seus objectivos;
 * Garantir o cumprimento das disposições legais, estatutárias e das deliberações da Assembleia Geral;
 * Elaborar e submeter ao Conselho Fiscal e aprovação da Assembleia Geral, os relatórios de actividades e das contas, bem como o orçamento e o programa de actividades para o ano seguinte;
@@ -106,7 +107,7 @@ Compete ao Conselho Fiscal:
 * Conferir saldos de caixa, balancetes mensais, receitas e despesas, examinando cuidadosa e periodicamente a escritura da Associação para verificar a sua exactidão e legalidade dos pagamentos;
 * Verificar se está a realizar-se o correcto aproveitamento dos meios de produção da Associação e se não há esbanjamento ou desvio de fundos;
 * Fiscalizar a disciplina e a remuneração do trabalhador na Associação e zelar em geral, pelo cumprimento por parte do Conselho de Direcção dos estatutos, regulamento e demais deliberações da Assembleia Geral.
-* Analisar as queixas dos membros da Associação, relativamente as decisões e actuações do Conselho de Direcção;
+* Analisar as queixas dos membros da Associação, relativamente às decisões e actuações do Conselho de Direcção;
 * Apresentar o relatório de prestação de contas do seu trabalho nas sessões da Assembleia Geral.
 
 ## Comparação das Leis das Associações
@@ -146,7 +147,7 @@ Compete ao Conselho Fiscal:
 
 * Membros tem que ter BIs e Registo Criminal, tratado ao nível provincial
 * Registo criminal deve ser tramitado em Maputo
-* Reconhecido ao nível de provincial, qual processo pode ser moroso 
+* Reconhecido ao nível provincial, qual processo pode ser moroso 
 * Tem que enviar anualmente ao Ministério das Finanças e ao Tribunal Administrativo o relatório e as contas do exercício findo
-* O processo de tramitação e moroso, pode levar mais de 9 meses para o despacho
+* O processo de tramitação é moroso, pode levar mais de 9 meses para o despacho
 

@@ -20,7 +20,7 @@ Objectivo principal: Sensibilização sobre o papel das associações comunitár
 
 * Agradecer a presença de todos os participantes.
 * Lembrar qualquer engajamento anterior da equipa na comunidade. 
-* Perguntar uma série de clarificações sobre essas actividades anteriores; o que foi feito? com quem? Quais são os resultados e o seu possível impacto?
+* Pedir uma série de clarificações sobre essas actividades anteriores; o que foi feito? com quem? Quais são os resultados e o seu possível impacto?
 
 ## Processo CaVaTeCo
 
@@ -39,14 +39,14 @@ Fornecer um cronograma aproximado das actividades para a comunidade alvo.
 ## Princípios básicos
 
 * Enfatizar os papéis dos actores desse processo: a comunidade em um papel de liderança; equipa como facilitador; a associação comunitária como corpo representativo do trabalho a ser feito.
-* Comunique-se que, embora a autoridade tradicional é um jogador importante em gestão da terra comunitária e dos recursos naturais, há outras vozes a serem ouvidas.
+* Comunique-se que, embora a autoridade tradicional seja um jogador importante em gestão da terra comunitária e dos recursos naturais, há outras vozes a serem ouvidas.
 * Sublinhar que a comunidade é um corpo de direito privado, e não uma entidade governamental ou político local. 
 * Explicar a diferença entre a representatividade da comunidade e os conselhos locais.
 
 ## O trabalho de hoje
 
-* [ ] Peça aos participantes para fornecer uma visão geral sobre as instituições comunitárias existentes, tais como o Comité de Gestão de Recursos Naturais, associações de produtores, e outros.
-* [ ] Peça mais especificamente o funcionamento anterior e actual do G9 como um ponto de entrada para justificar uma forma de organização melhor e mais funcional da representação da comunidade; identificar os membros do G9 que estão presentes na reunião e convide-os para dar a sua conta em actividades passadas e presentes.
+* [ ] Pedir aos participantes para fornecerem uma visão geral sobre as instituições comunitárias existentes, tais como o Comité de Gestão de Recursos Naturais, associações de produtores, e outros.
+* [ ] Pedir mais especificamente o funcionamento anterior e actual do G9 como um ponto de entrada para justificar uma forma de organização melhor e mais funcional da representação da comunidade; identificar os membros do G9 que estão presentes na reunião e convide-os para dar a sua conta em actividades passadas e presentes.
 * [ ] Destacar a necessidade de esta instituição ser inclusivo, resultando em legitimidade com uma boa participação de diferentes grupos de interesse e diferentes povoações/bairros.
 * [ ] Sublinhar a necessidade de ter uma única instituição para lidar com a terra e os recursos naturais utilização/gestão; também explicar que uma tal única instituição permitirá a outras associações, mas com objectivos diferentes, tais como associações de produtores ou cooperativas.
 * [ ] Destacar a necessidade de ter uma instituição comunitária legalmente reconhecida; legalmente implica \(i\) de acordo com a lei e \(ii\) com personalidade jurídica.
@@ -55,7 +55,7 @@ Fornecer um cronograma aproximado das actividades para a comunidade alvo.
 
 * Maior abrangência e racionalização de recursos;
 * Entre ajuda e complementaridade;
-* Facilidade de acesso a informação, formação, comercialização, parcerias, comercialização, crédito, entre outros.
+* Facilidade de acesso à informação, formação, comercialização, parcerias, comercialização, crédito, entre outros.
 
 ## Desvantagens de trabalhar em grupo/associação:
 
@@ -68,7 +68,7 @@ As leis principais são:
 * Lei 2/2006 das associações agropecuárias
 * Lei 8/1991 das associações.
 
-Recomendamos que comecem por estabelecer uma associação agropecuária baseado em Lei 2/2006. Mais tarde, se eles querem, eles podem transformar isso em uma associação baseado em 8/91.
+Recomendamos que comecem por estabelecer uma associação agropecuária baseado em Lei 2/2006. Mais tarde, se eles quiserem, eles podem transformar isso em uma associação baseado em 8/91.
 
 Explicar as vantagens e desvantagens de cada um, os procedimentos para a sua constituição e responder a perguntas \(veja Anexo B\).
 
@@ -87,6 +87,6 @@ No fim desta secção o motivador orienta a planificação e marcação dos enco
 ## Conclusão
 
 * Preencher o Formulario C.
-* Agradece os participantes por seu engajamento.
+* Agradecer os participantes por seu engajamento.
 * A equipa irá retornar após uma semana para começar a trabalhar na criação de uma associação comunitária, trabalhando numa fase inicial com as povoações da comunidade.
 

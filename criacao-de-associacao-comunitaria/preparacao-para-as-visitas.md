@@ -3,7 +3,7 @@
 ## As etapas de estabelecimento das associações
 
 1. Sensibilização sobre o papel das associações comunitárias de terra
-2. Informação e diagnostico institucional da comunidade
+2. Informação e diagnóstico institucional da comunidade
 3. Sensibilização da comunidade e trabalho sobre a representatividade
 4. Estatutos e regulamentos da associação
 5. Consolidação da representatividade, estatutos e identificação da acção administrativa necessária
@@ -18,7 +18,7 @@ Antes do inicio desta fase do trabalho:
 
 Antes de todas as visitas:
 
-* Equipa: Confirme 2 motivadores como membros da equipa.
+* Equipa: Confirmar 2 motivadores como membros da equipa.
 
 ## Planificação
 
@@ -29,7 +29,7 @@ Antes de todas as visitas:
 ## Ferramentas
 
 * Lei 2/2006 das associações agropecuárias e Lei 8/1991 das associações 
-* Informações sobre as características das varias instituições comunitárias possíveis, incluindo os pré-requisitos administrativos para o seu registo 
+* Informações sobre as características das várias instituições comunitárias possíveis, incluindo os pré-requisitos administrativos para o seu registo 
 * Exemplos de Estatutos e Regulamentos duma organização 
 * Canetas e marcadores
 * Tablet e Formulários ODK: A1, A2, C, C1, C2 e C3 \(veja resumo em anexo\)

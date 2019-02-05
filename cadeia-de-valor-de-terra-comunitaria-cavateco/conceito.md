@@ -24,7 +24,7 @@ Há três componentes essências para o processo de transformação, resumidas:
   * Aumentando sua participação nos processos de alocação de terras pelo Estado;
   * Alavancando seus direitos estatutários para uma percentagem das taxas de licença de uso de recursos locais;
   * Aproveitar as oportunidades para estabelecer parcerias com operadores comerciais;
-  * Desenvolver abordagens de conservação que lhe permitam beneficiar de programas relacionados ao aumento do seqüestro de carbono ou proteção dos serviços ecossistêmicos;
+  * Desenvolver abordagens de conservação que lhe permitam beneficiar de programas relacionados ao aumento do sequestro de carbono ou proteção dos serviços ecossistêmicos;
   * e / ou permitir que indivíduos e famílias demarquem suas terras, incluindo abordagem de questões de posse para mulheres e outros membros vulneráveis da comunidade.
 
 Dentro do processo de transformação, portanto, existem diferentes pilares e actividades de CaVaTeCo, que são melhor representados conceptualmente através de um diagrama, conforme mostrado abaixo.

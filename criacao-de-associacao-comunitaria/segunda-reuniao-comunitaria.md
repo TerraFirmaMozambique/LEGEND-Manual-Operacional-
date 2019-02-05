@@ -10,13 +10,13 @@ Uma reunião de duração de um dia ao nível da comunidade, até um mês após 
 
 ## Introdução da reunião
 
-De seguida modera a discussão das propostas de estatutos esboçados pelos povoados e harmonizá-las em um único corpo de estatutos da associação da comunidade.
+De seguida moderar a discussão das propostas de estatutos esboçados pelos povoados e harmonizá-las em um único corpo de estatutos da associação da comunidade.
 
-Refera ao modelo de estatutos.
+Referir ao modelo de estatutos.
 
 Chuva de ideias: a nossa associação tem que fazer o que?
 
-Refere ao exemplo de estatutos duma associação de terra comunitária, e as clausulas propostas.
+Referir ao exemplo de estatutos duma associação de terra comunitária, e as cláusulas propostas.
 
 Compilar as ideias num documento, seguindo o esboço do exemplo
 
@@ -29,5 +29,5 @@ No fim desta actividade o motivador marca um TPC para que a comunidade termine a
 ## Conclusão
 
 * Preencher o Formulario C
-* Agradece os participantes por seu engajamento.
+* Agradecer os participantes por seu engajamento.
 
