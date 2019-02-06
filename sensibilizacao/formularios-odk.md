@@ -9,13 +9,13 @@
 
   sensibilização
 
-* Tem que ser preenchido no fim do encontro, porque requere uma foto dos participantes e as coordenadas do encontro.
+* Tem que ser preenchido no fim do encontro, porque requer uma foto dos participantes e as coordenadas do encontro.
 
 ## Formulário A1: Pontos mapeamento
 
 * Usar para gravar informação de pontos de interesse, em particular antes ou depois de encontros.
 * Vai ser usado várias vezes em cada povoado, gravando informação dum ponto de interesse por vez.
-* Tem que ser preenchido no local, porque requere uma foto e as coordenadas.
+* Tem que ser preenchido no local, porque requer uma foto e as coordenadas.
 
 ## Formulário A2: Limites povoados
 
