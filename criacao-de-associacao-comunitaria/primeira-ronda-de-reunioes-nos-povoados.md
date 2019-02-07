@@ -31,7 +31,7 @@ Discutir e entregar trabalho para casa \(TPC\) para reflectir sobre todas estas 
 
 ## Conclusão
 
-* Preencher o Formulário C. Caso tiver tempo podem preencher também o Formulário A1
+* Preencher o Formulário C. Se houver tempo podem preencher também o Formulário A1
 * Agradecer os participantes por seu engajamento.
 * A equipa irá retornar após 3 – 5 dias para continuar com o trabalho.
 

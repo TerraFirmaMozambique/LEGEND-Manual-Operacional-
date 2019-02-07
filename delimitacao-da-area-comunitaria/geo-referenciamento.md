@@ -18,7 +18,7 @@ Confirmar os limites da comunidade local, e apurar a dimensão e/ou o tamanho re
 
 ## Preparação
 
-O técnico responsável dos SPGC coordena com a liderança da comunidade local a ser delimitada, para indicação da data, hora e local de início de trabalho. A comunidade local deve informar a comunidade vizinha do inicio do trabalho para efeitos de confirmação dos mesmos limites. A informação deve ser continua às comunidades vizinhas, sempre que iniciar um novo limite.
+O técnico responsável dos SPGC coordena com a liderança da comunidade local a ser delimitada, para indicação da data, hora e local de início de trabalho. A comunidade local deve informar a comunidade vizinha do inicio do trabalho para efeitos de confirmação dos mesmos limites. A informação deve ser contínua às comunidades vizinhas, sempre que iniciar um novo limite.
 
 ## Processo
 
@@ -40,8 +40,7 @@ O técnico responsável dos SPGC coordena com a liderança da comunidade local a
 ## Ferramentas
 
 * Imagens satélites
-* Informação gravada anteriormente usando Formulários de ODK, incluindo A1 Pontos de interesse; Formulário A2 Coordenadas dos limites do povoado; Formulário G Mapas participativos feitos pelas mulheres e pelos homens; Formulário H Cartograma
-* Formulário D: Encontro da Diagnóstico Participativo
+* Informação gravada anteriormente usando Formulários de ODK, incluindo A1 Pontos de interesse; Formulário A2 Coordenadas dos limites do povoado; Formulário G Mapas participativos feitos pelas mulheres e pelos homens; Formulário H Cartograma; Formulário D Encontro de Diagnóstico Participativo
 
 ## Produtos
 

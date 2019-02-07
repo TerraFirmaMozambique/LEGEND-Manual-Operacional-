@@ -1,6 +1,6 @@
 # Primeira reunião comunitária
 
-O processo comunitário começa com sensibilização da liderança e introdução do conceito da associação comunitária no âmbito do DUAT comunitária.
+O processo comunitário começa com sensibilização da liderança e introdução do conceito da associação comunitária no âmbito do DUAT comunitário.
 
 ## Objectivos
 
@@ -20,7 +20,7 @@ Objectivo principal: Sensibilização sobre o papel das associações comunitár
 
 * Agradecer a presença de todos os participantes.
 * Lembrar qualquer engajamento anterior da equipa na comunidade. 
-* Pedir uma série de clarificações sobre essas actividades anteriores; o que foi feito? com quem? Quais são os resultados e o seu possível impacto?
+* Pedir uma série de clarificações sobre essas actividades anteriores; O que foi feito? Com quem? Quais são os resultados e o seu possível impacto?
 
 ## Processo CaVaTeCo
 
@@ -32,7 +32,7 @@ Destacar os possíveis benefícios da implementação da cadeia de valor: as qua
 
 Explicar que cada etapa vai exigir um conjunto de actividades para alcançar os resultados desejados; explicar os diferentes passos de cada uma das três etapas fundamentais.
 
-Ilustrar a maneira como este processo será praticamente implementada: uma abordagem por grupo de trabalho com 5-6 comunidades simultaneamente; trabalho em povoações; trabalho para casa; visitas regulares do facilitador.
+Ilustrar a maneira como este processo será praticamente implementado: uma abordagem por grupo de trabalho com 5-6 comunidades simultaneamente; trabalho em povoações; trabalho para casa; visitas regulares do facilitador.
 
 Fornecer um cronograma aproximado das actividades para a comunidade alvo.
 

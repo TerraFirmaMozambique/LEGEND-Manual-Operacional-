@@ -25,7 +25,7 @@ A sensibilização e divulgação no âmbito de delimitação comunitária é um
 
 ## Objectivos
 
-O principal objectivo da sensibilização é de esclarecer e clarificar as comunidades locais o porque da delimitação comunitária de modo a facilitar o processo. Uma sensibilização forte e clara, pode tornar a delimitação comunitária transparente e com a participação activa das mulheres, homens e jovens.
+O principal objectivo da sensibilização é de esclarecer e clarificar as comunidades locais o porquê da delimitação comunitária de modo a facilitar o processo. Uma sensibilização forte e clara, pode tornar a delimitação comunitária transparente e com a participação activa das mulheres, homens e jovens.
 
 Processo
 
@@ -42,7 +42,7 @@ Processo
 
 ## Ferramentas
 
-• Formulário D: Encontro da Diagnóstica Participativa
+• Formulário D: Encontro de Diagnóstico Participativo
 
 ## Produtos
 

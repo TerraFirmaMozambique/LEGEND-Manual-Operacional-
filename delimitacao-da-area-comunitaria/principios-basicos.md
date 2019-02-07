@@ -21,9 +21,9 @@ Segundo o Anexo Técnico do Regulamento da Lei de Terras, a delimitação comuni
 1. Formulário 1: Informação e Divulgação
 2. Formulário 2: Aprovação do processo de delimitação da área da comunidade / área de ocupante de boa-fé
 3. Formulário 3: Fases do diagnóstico participativo
-4. Formulário 4: Memoria Descritiva do Esboço
+4. Formulário 4: Memória Descritiva do Esboço
 5. Formulário 5: Devolução
 6. Formulário 6: Lançamento no Cadastro Nacional de Terras \(inclue Formulários 1 – 5\)
 
-Para facilitar o trabalho, o CaVaTeCo usa uma serie de formulários com letras \(veja Anexo 2\).
+Para facilitar o trabalho, o CaVaTeCo usa uma série de formulários com letras \(veja Anexo 2\).
 
