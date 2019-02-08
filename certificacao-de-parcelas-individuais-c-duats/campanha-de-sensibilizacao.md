@@ -2,7 +2,7 @@
 
 ## **Objectivo**
 
-Apresentar a comunidade a metodologia de trabalho de delimitação e certificação de parcelas individuais e/ou familiares
+Apresentar à comunidade a metodologia de trabalho de delimitação e certificação de parcelas individuais e/ou familiares
 
 > ![](../.gitbook/assets/meet_pic.jpg)
 >
@@ -28,7 +28,7 @@ Apresentar a comunidade a metodologia de trabalho de delimitação e certificaç
   * mapas
   * GPS
   * fita de sinalização
-* A equipa explica que vai-se mapear e confirmar os limites de cada parcela familiar. Uma parcela inclui uma área contígua duma pessoa ou duma família, incluindo áreas de habitação, machambas em uso, machambas em pousio, floresta e outras áreas para expansão ou uso futuro
+* A equipa explica que será feito o mapeamento e confirmação dos limites de cada parcela familiar. Uma parcela inclui uma área contígua duma pessoa ou duma família, incluindo áreas de habitação, machambas em uso, machambas em pousio, floresta e outras áreas para expansão ou uso futuro
 * A associação e a equipa técnica explica as opções para assegurar a participação das mulheres e pessoas vulneráveis, incluindo titularidade duma ou mais parcelas em nome da mulher, assim como co-titularidade
 * A equipa enfatiza a necessidade de tentar resolver os conflitos de terra pendentes antes do processo de mapeamento
 * Definir o plano de trabalho
@@ -37,7 +37,7 @@ Apresentar a comunidade a metodologia de trabalho de delimitação e certificaç
 
 * Mapa da área comunitária
 * Mapa Visão Geral
-* Mapas de Serie H
+* Mapas de Série H
 * Tablet
 * Garmin
 * Fita sinalização

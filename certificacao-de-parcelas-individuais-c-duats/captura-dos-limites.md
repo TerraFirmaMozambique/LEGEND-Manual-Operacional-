@@ -33,7 +33,7 @@ O chefe da equipa apresenta os membros da sua equipa e faz uma breve explicaçã
 * É importante que a co-titularidade seja apresentada como uma opção. Isso permitirá o uso de certificados por mais tempo sem correcção/alteração
 * É importante que os membros da comunidade estejam prontos para ir as \_machambas \_e ajudar a resolver disputas
 * Se houver disputas que sejam graves e que precisem ir para uma autoridade diferente, estas devem ser documentadas
-* Se as disputas não puderem ser resolvidas, a delimitação ainda será feita no campo, mas as parcelas não serão certificadas e os certificados não serão entregues até estas disputas sejam resolvidas
+* Se as disputas não puderem ser resolvidas, a delimitação ainda será feita no campo, mas as parcelas não serão certificadas e os certificados não serão entregues até que estas disputas sejam resolvidas
 
 #### Preparação
 
@@ -64,7 +64,7 @@ A equipa então deve prosseguir na seguinte maneira:
 5. Se não for possível identificar os limites através do mapa, caminhar os limites que não estão identificáveis e gravar os pontos, usando GPS. Fazer a marcação no mapa com lápis com uma linha tracejada \(- - - - - - \)
 6. Preencher o recibo, tirar uma imagem do recibo e entregar o original ao requerente
 7. Fechar o formulário quando tudo estiver completo
-8. No escritório, por cima da marcação com lápis, sobredesenhar com marcador vermelho para a equipa da digitalizacao poderem visualizar os limites com facilidade
+8. No escritório, por cima da marcação com lápis, sobredesenhar com marcador vermelho para a equipa da digitalização poder visualizar os limites com facilidade
 9. Scanar os mapas e enviar para equipa da digitalização   
 
 ### Marcação dos limites nos mapas
@@ -90,13 +90,13 @@ Também é importante marcar os limites no mapa \(aproximadamente\) numa maneira
 
 Usando o ODK e, na presença do titular/responsável da parcela ou seu representante, é preenchido o formulário digital, onde é recolhida a informação do titular e da parcela.
 
-Caso um membro duma família não esteja registado na lista dos titulares, pode-se inscrever no momento da delimitação da parcela. Esta passo é a ultima oportunidade nesta ronda para alguém se registar como titular ou co-titular.
+Caso um membro duma família não esteja registado na lista dos titulares, pode-se inscrever no momento da delimitação da parcela. Este passo é a ultima oportunidade nesta ronda para alguém se registar como titular ou co-titular.
 
 > Picture here
 >
 > O momento de preenchimento do formulário no ODK
 
-A fase seguinte é a captura dos limites da parcela. Nesta fase, a presença do ocupante da parcela ou seu representante, assim como os vizinhos da parcela é obrigatória. Os vizinhos da parcela devem confirmar os limites para evitar possíveis conflitos de terra no futuro.
+A fase seguinte é a captura dos limites da parcela. Nesta fase, a presença de um dos ocupantes da parcela ou seu representante, assim como os vizinhos da parcela é obrigatória. Os vizinhos da parcela devem confirmar os limites para evitar possíveis conflitos de terra no futuro.
 
 A captura é feita com base em imagens satélites. A equipe de campo, facilita a interpretação das imagens, identificando a zona de trabalho. Assim, o ocupante da parcela, poderá indicar a sua _machamba_ com a confirmação dos vizinhos. O técnico de campo, irá proceder a marcação dos limites indicados da parcela na imagem satélite. Em caso de duvida, a equipe junto com os ocupantes da parcela, deslocam-se ao referido limite para confirmação.
 
@@ -104,24 +104,24 @@ A captura é feita com base em imagens satélites. A equipe de campo, facilita a
 >
 > Captura de limites
 
-Depois a captura dos limites e a confirmação pelo requerente e os vizinhos, a equipa preenche o recibo, deixando uma copia com o requerente.
+Depois a captura dos limites e a confirmação pelo requerente e os vizinhos, a equipa preenche o recibo, deixando uma cópia com o requerente.
 
 > ![](../.gitbook/assets/recibo.png)
 >
 > Exemplo do recibo
 
-O numero de recibo serve também como o Número Único de Parcela \(NUP\), que vai ligar o georeferenciamento aos dados pessoais e detalhes da pessoa ou agregado que está a reclamar tal parcela.
+O número de recibo serve também como o Número Único de Parcela \(NUP\), que vai ligar o georeferenciamento aos dados pessoais e detalhes da pessoa ou agregado que está a reclamar tal parcela.
 
 Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos marcados no campo para o escritório do projecto, onde os limites das parcelas serão digitalizados e ligados aos dados dos formulários ODK. O próprio banco de dados será criado usando o PostgreSQL PostGIS e o software QGIS.
 
 ### Resumo das regras na delimitação de limites
 
-* Os limites comuns, onde não há disputa, são marcados com \[\_\_\_\_\_\_\_\_\_\_\_\] linhas solidas
+* Os limites comuns, onde não há disputa, são marcados com \[\_\_\_\_\_\_\_\_\_\_\_\] linhas sólidas
 * Limites pouco claros são marcados com \[- - - - - - - - -\] linhas tracejadas
 * Os limites sob disputa são marcados com \[ / \ / \ / \ / \\] linhas 'ziguezague'
 * Nenhuma delimitação será feita se não houver testemunhas: o requerente deve encontrar uma testemunha primeiro
 * Se houver uma estrada \(reconhecida\) no meio duma parcela, essa não deve ser delimitada como uma parcela. As estradas devem ser um limite divisor entre duas parcelas separadas.
-* Onde os campos se estendem através de duas ou mais serie 'H' folhas:
+* Onde os campos se estendem através de duas ou mais folhas da serie 'H':
   * Marque os limites em todas as folhas de mapa 'H' se estiverem disponíveis e escreva o número da parcela \(do recibo\) dentro da parcela em cada um dos mapas
   * Se uma folha de mapa 'H' não estiver disponível, use o Formulário ODK para marcar os pontos de referência do limite que cai na folha em falta.
   * Desenhe os limites até a borda das folhas de mapa H \(não pare na linha de borda verde\).

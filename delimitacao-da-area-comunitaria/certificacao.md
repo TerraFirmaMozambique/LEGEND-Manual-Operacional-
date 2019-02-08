@@ -13,7 +13,7 @@ O principal objectivo da fase é a emissão da certidão oficiosa de delimitaç�
 
 ## Equipa
 
-* 1 Técnico Topografo e/ou cartógrafo dos SPGC.
+* 1 Técnico Topógrafo e/ou cartógrafo dos SPGC.
 
 ## Ferramentas
 

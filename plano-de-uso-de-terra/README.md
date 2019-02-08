@@ -13,7 +13,7 @@ As associações, com ajuda da equipa do campo, vão guiar os processos de mapea
 
 Os resultados de mapeamento serão digitalizados dentro do GIS do projecto e um conjunto de mapas finais serão produzidos para validação com os membros de cada comunidade e com as comunidades vizinhas. \(Cópias dos mapas ficam no sistema de GIS e também com cada comunidade, para permitir uso futuro pelos donos\). Uma vez que os mapas são validados, eles serão apresentados ao governo distrital e aos serviços cadastrais, em nome da associação que representa a comunidade.
 
-Durante esta fase, a equipe irá identificar oportunidades para realizar exercícios de planeamento do uso conjunto da terra pelas aldeias, onde os grupos que atualmente compartilham recursos para além das fronteiras das aldeias também poderão ser envolvidos. No contexto dos investimentos da Portucel, essa actividade pode também servir para identificar áreas de conservação ou de produção que ultrapassam os limites da comunidade e para discutir e acordar sobre as regras para o acesso e gestão de tais áreas.
+Durante esta fase, a equipe irá identificar oportunidades para realizar exercícios de planeamento do uso conjunto da terra pelas aldeias, onde os grupos que atualmente compartilham recursos para além das fronteiras das aldeias também poderão ser envolvidos. No contexto dos investimentos da Portucel, essa actividade pode também servir para identificar áreas de conservação ou de produção que ultrapassem os limites da comunidade e para discutir e acordar sobre as regras para o acesso e gestão de tais áreas.
 
 Os mapas finais serão exibidos num quadro de avisos num local acessível em cada comunidade.
 
