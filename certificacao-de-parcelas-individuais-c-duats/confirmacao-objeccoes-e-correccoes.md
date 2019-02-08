@@ -6,7 +6,7 @@ O objectivo da publicação do mapa e da lista das parcelas é de permitir que t
 
 ## Considerações legais
 
-Segundo o artigo 24, do Regulamento da Lei de Terra é obrigatório a afixação do edital em locais públicos de maior concentração da população para facilitar a consulta, o período máximo estabelecido pela legislação de terras é de 30 dias. No entanto, no programa Terra Segura, o edital e afixado durante o período de 15 dias.
+Segundo o artigo 24, do Regulamento da Lei de Terra é obrigatório a afixação do edital em locais públicos de maior concentração da população para facilitar a consulta, o período máximo estabelecido pela legislação de terras é de 30 dias. No entanto, no programa Terra Segura, o edital é afixado durante o período de 15 dias.
 
 Assim, o mapa e a lista são exibidos na comunidade por um período de pelo menos 15 dias, de acordo com as directrizes nacionais. No entanto, sugerimos que, em algumas comunidades, talvez seja necessário prolongar esse período, para permitir que as pessoas que estão longe da comunidade tenham tempo suficiente para participar do processo.
 
