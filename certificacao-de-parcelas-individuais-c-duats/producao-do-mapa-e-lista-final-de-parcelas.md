@@ -20,7 +20,7 @@ As reclamações podem incluir:
 
 * Erros nos dados pessoais 
 * Discordância nos limites das parcelas
-* Inclusão de co-titular que consta no recibo cujo nome não aparceça na lista
+* Inclusão de co-titular que consta no recibo mas não consta na lista
 * Exclusão de co-titulares que não constam no recibo
 
 Com base nos dados recebidos a partir da fase de Objecções e Correcções, a equipe técnica produz um mapa geral das parcelas, e a lista final de parcelas e titulares.

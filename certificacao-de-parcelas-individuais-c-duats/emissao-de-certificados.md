@@ -9,7 +9,7 @@ Emissão pela a associação dos certificados para titulares das áreas familiar
 A associação emite certificados para titulares das áreas familiares delimitadas.
 
 1. A equipa técnica pela gestão da base de dados confirma os mapas finais, as listas de parcelas e dos titulares na comunidade para qual os certificados serão emitidos.
-2. A equipa técnica preenche o modelo de Certificado com pormenores de cada parcela \(numero único de parcela, nome\(s\) de \(co-\)titulare\(s\), etc.
+2. A equipa técnica preenche o modelo de Certificado com pormenores de cada parcela \(número único de parcela, nome\(s\) de \(co-\)titulare\(s\), etc.
 3. A equipa técnica envia os certificados para a associação.
 4. A emissão dos certificados pela associação deve ocorrer dentro de um período de 60 dias após a apresentação dos pedidos.
 
