@@ -29,8 +29,6 @@
   * [Certificação](delimitacao-da-area-comunitaria/certificacao.md)
   * [Formulários ODK](delimitacao-da-area-comunitaria/formularios-odk.md)
   * [Formulários Do Anexo Técnico](delimitacao-da-area-comunitaria/formularios-do-anexo-tecnico.md)
-* [Plano de Uso de Terra](plano-de-uso-de-terra/README.md)
-  * [Formulários ODK](plano-de-uso-de-terra/formularios-odk.md)
 * [Certificação de Parcelas Individuais \(C-DUATs\)](certificacao-de-parcelas-individuais-c-duats/README.md)
   * [Princípios Básicos](certificacao-de-parcelas-individuais-c-duats/principios-basicos.md)
   * [Produção de Grelha e Mapas](certificacao-de-parcelas-individuais-c-duats/producao-de-grelha-e-mapas.md)
@@ -42,5 +40,7 @@
   * [Produção do Mapa e Lista Final de parcelas](certificacao-de-parcelas-individuais-c-duats/producao-do-mapa-e-lista-final-de-parcelas.md)
   * [Emissão de Certificados](certificacao-de-parcelas-individuais-c-duats/emissao-de-certificados.md)
   * [Formulários ODK](certificacao-de-parcelas-individuais-c-duats/formularios-odk.md)
+* [Plano de Uso de Terra](plano-de-uso-de-terra/README.md)
+  * [Formulários ODK](plano-de-uso-de-terra/formularios-odk.md)
 * [O Plataforma Tecnologico](o-plataforma-tecnologico.md)
 
