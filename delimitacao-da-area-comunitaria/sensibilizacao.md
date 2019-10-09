@@ -6,7 +6,7 @@ Na realização de delimitação comunitária, observa-se as seguintes actividad
 * Sensibilização das autoridades comunitárias;
 * Reuniões de Informação e Divulgação/Sensibilização
 
-   com membros da comunidade
+  com membros da comunidade
 
 ## Encontro informativo com o governo
 

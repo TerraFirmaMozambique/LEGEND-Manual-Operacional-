@@ -1,6 +1,6 @@
 # Geo-Referenciamento
 
-O georeferenciamento é a fase de levantamento das coordenadas geográficas da comunidade local, com envolvimento das comunidades vizinhas para confirmarem os limites indicados. Geo-referenciamento da comunidade é tornar suas coordenadas geográficas conhecidas num sistema de referência. A documentação é produzida pelos SPGC ou pelo técnico cadastral do distrito. 
+O georeferenciamento é a fase de levantamento das coordenadas geográficas da comunidade local, com envolvimento das comunidades vizinhas para confirmarem os limites indicados. Geo-referenciamento da comunidade é tornar suas coordenadas geográficas conhecidas num sistema de referência. A documentação é produzida pelos SPGC ou pelo técnico cadastral do distrito.
 
 Normalmente a equipe de trabalho percorre os limites do povoado, gravando os pontos necessários para elaboração de esboço numa maneira que corresponde a realidade no terreno. Infelizmente existem muitos exemplos de esboços com somente 5 ou 6 coordenadas geográficas, que não tomam em conta as realidades topográficas e geográficas. Esses esboços excluem algumas áreas da comunidade, e incluem outras áreas que ficam fora dos limites actuais da comunidade.
 

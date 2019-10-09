@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introdução](README.md)
+* [Manual Operacional - Tenure Facility](README.md)
 * [Cadeia de Valor de Terra Comunitária \(CaVaTeCo\)](cadeia-de-valor-de-terra-comunitaria-cavateco/README.md)
   * [Conceito](cadeia-de-valor-de-terra-comunitaria-cavateco/conceito.md)
   * [Passos e etapas](cadeia-de-valor-de-terra-comunitaria-cavateco/passos-e-etapas.md)

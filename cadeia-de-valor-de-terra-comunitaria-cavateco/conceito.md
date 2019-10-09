@@ -8,9 +8,7 @@ A abordagem da cadeia de valor oferece muito para entender como as matérias-pri
 
 Aplicando esse conceito à terra da comunidade, a representação mais simples do CaVaTeCo é apresentado abaixo:
 
-> ![](../.gitbook/assets/cavateco.png)
->
-> A Cadeia de Valor de Terra Comunitária
+![O Modelo Conceptual de CaVaTeCo](../.gitbook/assets/modelo_conceptual%20%281%29.png)
 
 Os produtos desejados a partir desses processos da cadeia de valor são os benefícios concretos que podem advir para as comunidades locais como resultado da transformação de seus direitos legais em direitos reais registados. Estes podem incluir benefícios legais monetários do pagamento de taxas de licença de uso dos recursos naturais \(sob regulamentos florestais e de mineração, ou através de pagamentos por serviços ambientais\), ou oportunidades de colaboração comercial com investidores, através da cedência negociada de terras para empreendimentos baseados na terra, ou através da criação de oportunidades para os produtores locais participarem em programas de fomento agrícolas ou acordos de contratação agrícola. Essencialmente, o conceito também inclui oportunidades para instituir uma cadeia de valor que incorpora questões de equidade, sob uma conceitualização mais ampla de "benefícios sustentáveis", de tal forma que, por exemplo, a garantia de posse dos membros mais vulneráveis da comunidade possa também ser abordada.
 

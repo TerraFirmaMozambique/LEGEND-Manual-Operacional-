@@ -16,7 +16,7 @@ Os mapas numa primeira fase podem ser feitos no chão, caso contrário num papel
 
 * Dividir os participantes: formar um grupo de homens, um grupo de mulheres, um grupo de jovens.
 * Cada grupo deve desenhar os mapas:
-*  Começar por representar os pontos cardeais;
+* Começar por representar os pontos cardeais;
 * Representar características geográficas e infra-estruturas \(estradas principais, linhas férreas, etc.\) para facilitar a representação de outros elementos;
 * Representar os limites do povoado com os povoados vizinhos e os nomes das comunidades ou povoados vizinhos;
 * Representar outras características geográficas e recursos naturais; 

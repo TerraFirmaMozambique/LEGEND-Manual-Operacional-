@@ -118,7 +118,7 @@ Depois de concluir o trabalho, a equipa do campo vai enviar os mapas impressos m
 
 * Os limites comuns, onde não há disputa, são marcados com \[\_\_\_\_\_\_\_\_\_\_\_\] linhas sólidas
 * Limites pouco claros são marcados com \[- - - - - - - - -\] linhas tracejadas
-* Os limites sob disputa são marcados com \[ / \ / \ / \ / \\] linhas 'ziguezague'
+* Os limites sob disputa são marcados com \[ /  /  /  / \\] linhas 'ziguezague'
 * Nenhuma delimitação será feita se não houver testemunhas: o requerente deve encontrar uma testemunha primeiro
 * Se houver uma estrada \(reconhecida\) no meio duma parcela, essa não deve ser delimitada como uma parcela. As estradas devem ser um limite divisor entre duas parcelas separadas.
 * Onde os campos se estendem através de duas ou mais folhas da serie 'H':

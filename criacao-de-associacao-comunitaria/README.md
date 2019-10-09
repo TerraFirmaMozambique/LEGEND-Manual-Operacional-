@@ -71,7 +71,7 @@ Em função dos problemas comuns, dos membros:
 
 ### Competências do Conselho de Direcção
 
-Compete ao Conselho de Direcção: 
+Compete ao Conselho de Direcção:
 
 * Administrar e gerir as actividades da Associação com os mais amplos poderes, de modo a garantir a realização dos seus objectivos;
 * Garantir o cumprimento das disposições legais, estatutárias e das deliberações da Assembleia Geral;
