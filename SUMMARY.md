@@ -44,5 +44,6 @@
   * [Formulários ODK](certificacao-de-parcelas-individuais-c-duats/formularios-odk.md)
 * [Plano de Uso de Terra](plano-de-uso-de-terra/README.md)
   * [Formulários ODK](plano-de-uso-de-terra/formularios-odk.md)
-* [O Plataforma Tecnologico](o-plataforma-tecnologico.md)
+* [O Plataforma Tecnológico](o-plataforma-tecnologico.md)
+* [Documentação e Comunicação](documentacao-e-comunicacao.md)
 

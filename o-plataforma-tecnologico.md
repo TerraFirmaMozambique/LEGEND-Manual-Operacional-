@@ -1,4 +1,4 @@
-# O Plataforma Tecnologico
+# O Plataforma Tecnológico
 
 ![](.gitbook/assets/cavateco.png)
 
