@@ -1,4 +1,4 @@
 # Passos e etapas
 
-![](../.gitbook/assets/passos.png)
+![](../.gitbook/assets/cavateco-passos-10-10-2019.jpg)
 

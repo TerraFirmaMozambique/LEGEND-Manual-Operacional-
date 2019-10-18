@@ -1,5 +1,7 @@
 # Delimitação da Área Comunitária
 
+![Grelha de Mapas Mostrando Limites duma Comunidade](../.gitbook/assets/grid.JPG)
+
 Em paralelo com as actividades de mapeamento, a equipe vai trabalhar com os grupos da comunidade para realizar uma série de outras actividades que são mandatadas pelo Anexo Técnico sobre a delimitação de terras. Estas incluem:
 
 * Compilação de informações sobre a história, contexto social e institucional da comunidade;

@@ -6,6 +6,8 @@
   * [Passos e etapas](cadeia-de-valor-de-terra-comunitaria-cavateco/passos-e-etapas.md)
   * [Ferramentas](cadeia-de-valor-de-terra-comunitaria-cavateco/ferramentas.md)
 * [Sensibilização](sensibilizacao/README.md)
+  * [Untitled](sensibilizacao/untitled-1.md)
+  * [Untitled](sensibilizacao/untitled.md)
   * [Formulários ODK](sensibilizacao/formularios-odk.md)
 * [Criação de Associação Comunitária](criacao-de-associacao-comunitaria/README.md)
   * [Princípios básicos](criacao-de-associacao-comunitaria/principios-basicos.md)

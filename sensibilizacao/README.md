@@ -2,7 +2,7 @@
 
 Conforme estipulado pela Anexo Técnico, o processo de delimitação comunitária deve, por lei, ser precedido de uma série de consultas comunitárias na qual a informação em relação à terra, floresta e legislação ambiental é transmitida e a comunidade tem a oportunidade de compreender melhor as implicações de delimitar as suas terras e as actividades e os passos principais que isso implicará.
 
-## Objectivos
+### Objectivos
 
 Promover a consciencialização das comunidades, investidores e tomadores de decisão \(homens, mulheres, grupos vulneráveis\) sobre os assuntos da terra;
 

@@ -1,5 +1,7 @@
 # Certificação de Parcelas Individuais \(C-DUATs\)
 
+![](../.gitbook/assets/grupo-de-mapeamento.jpg) 
+
 ## Uma nova abordagem...
 
 A CaVaTeCo propõe uma abordagem diferente, como alternativa à titulação formal de DUATs através do cadastro nacional:

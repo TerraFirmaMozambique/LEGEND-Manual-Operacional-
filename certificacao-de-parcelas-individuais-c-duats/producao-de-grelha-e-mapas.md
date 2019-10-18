@@ -1,5 +1,7 @@
 # Produção de Grelha e Mapas
 
+![Mapa A3 com Imagem de Sat&#xE9;lite](../.gitbook/assets/20171116_072957.jpg)
+
 ## **Objectivo**
 
 Produzir e imprimir um conjunto de mapas na escala 1:3,000 para servir como a base de mapeamento das parcelas individuais e/ou familiares.
