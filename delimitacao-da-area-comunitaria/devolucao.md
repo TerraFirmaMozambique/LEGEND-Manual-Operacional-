@@ -1,5 +1,7 @@
 # Devolução
 
+_**insert image of document - Malalo**_
+
 Esta fase é caracterizada pela prestação à comunidade local e comunidades vizinhas as informações recolhidas nas fases anteriores. A equipe de trabalho deve detalhadamente explicar os passos percorridos durante o processo de delimitação comunitária até a fase de devolução. Caso a comunidade não concorde com alguma informação, deve apresentar a equipe de trabalho para proceder com as devidas correcções. Após o encontro, os participantes assinam o respectivo formulário.
 
 ## Objectivos
@@ -13,6 +15,8 @@ O principal objectivo desta fase é a confirmação e/ou validação por parte d
 ## Preparação
 
 A equipe de trabalho coordena com a liderança da comunidade local do encontro. Também, é necessária a presença do Governo Distrital \(Administrador ou seu representante e SDAE\).
+
+_**alguem de SPGC????????????????????????????**_
 
 ## Processo
 

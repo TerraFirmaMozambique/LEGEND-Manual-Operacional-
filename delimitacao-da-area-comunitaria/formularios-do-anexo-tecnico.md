@@ -1,5 +1,7 @@
 # Formulários Do Anexo Técnico
 
+**insert image of Anexo Tecnico**
+
 * Formulário 1: Informação e Divulgação. Lista as actividades realizadas durante a fase de sensibilização, os temas abordados, os participantes, etc. e as assinaturas dos representantes da comunidade solicitando a delimitação.
 * Formulário 2: Aprovação do processo de delimitação da área da comunidade / área de ocupante de boa-fé.  O pedido oficial, contra-assinado pela administração distrital.
 * Formulário 3: Fases do diagnóstico participativo. Listagem de todas as actividades e resultados do DRP, incluindo datas, participantes, etc.
